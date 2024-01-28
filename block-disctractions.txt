@@ -1,11 +1,18 @@
-# Add this file to your /etc/hosts to block ads, porn and general junk
+# Add this file to your hostfile to block ads, porn and general junk
 
-# Add this to your Computer via:
+# On Linux:
 # sudo su
 # cat ips >> /etc/hosts
 
-# On Windows, add it to the end of:
+# On Windows:
 # C:\Windows\System32\drivers\etc\hosts
+
+# On Android
+# adb root
+# adb remount
+# adb push /example/hosts /system/etc
+
+--------
 
 # Blocklist
 0.0.0.0 bandcamp.com
