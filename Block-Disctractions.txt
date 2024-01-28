@@ -1,22 +1,13 @@
-# Add this file to your /etc/hosts to block all
-# of the ad sites, porn and general junk on this
-# list, including Google.
-#
-# Fell free to add or subtract sites as necessary.
-#
-# For linux noobs, to add this to /etc/hosts,
-# run the following in the same directory of this
-# file:
-#
+# Add this file to your /etc/hosts to block ads, porn and general junk
+
+# Add this to your Computer via:
 # sudo su
 # cat ips >> /etc/hosts
-#
-# You can delete this file afterwards.
-#
-# To use this on Windows, add it to the end of:
+
+# On Windows, add it to the end of:
 # C:\Windows\System32\drivers\etc\hosts
 
-#Own Blocklist
+# Blocklist
 0.0.0.0 bandcamp.com
 0.0.0.0 soundcloud.com
 0.0.0.0 anime-base.net
