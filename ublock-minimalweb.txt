@@ -1,29 +1,59 @@
-! 2023-07-23 https://duckduckgo.com
+! duckduckgo
 duckduckgo.com##.js-header-aside.header--aside
-
-! 2023-07-24 https://duckduckgo.com
 duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
 duckduckgo.com##.js-feedback-start.feedback-btn__send
 duckduckgo.com##.feedback-btn.btn
 duckduckgo.com##.js-zci-link--news.js-zci-link.zcm__link
+||duckduckgo.com/assets/logo_header.v109.svg$image
+duckduckgo.com##.js-tagline.tag-home__item
+||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
+||duckduckgo.com/assets/onboarding/arrow.svg$image
+||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
+duckduckgo.com##.onboarding-ed__arrow-teaser__arrow-wrapper
+||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
+duckduckgo.com##.js-zci-link--products.js-zci-link.zcm__link
+duckduckgo.com##.js-zci-link--videos.js-zci-link.zcm__link
+duckduckgo.com##.tile--img__title
+duckduckgo.com##.footer
+duckduckgo.com##.search-filters.js-search-filters
+duckduckgo.com##.search-filters-wrap
+duckduckgo.com##.js-metabar-dropdowns.metabar__dropdowns
+duckduckgo.com##.text_text__q9rvO.text_text-md__x96X3.tagline_tagline__xryVo
+duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.home_exploreFeatureScroller__V5a9G.legacy-homepage-variants_scrollCta__hNjqv
+duckduckgo.com##.home_minimalHeroLogo__kX4wR.header_logoImg__PFezv.header_logoText__rodFL.header_logoStacked__XHuIN > [src^="data:image/svg+xml;base64,"]
+duckduckgo.com##.w498IXAnug_2RwtqCtbA > p
 
-! 2023-07-24 https://monkeytype.com
+! youtube
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+canvawww.youtube.com###guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com###logo-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###icon > .yt-icon-button.style-scope
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###comments > .ytd-comments.style-scope
+www.youtube.com###menu > .ytd-watch-metadata.style-scope
+www.youtube.com##.ytd-live-chat-frame.style-scope > yt-button-shape > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###secondary > .ytd-watch-flexy.style-scope
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com###logo
+www.youtube.com##.icon-and-text
+www.youtube.com##.manual-btn.gpt-inner
+www.youtube.com###owner-sub-count
+www.youtube.com###voice-search-button
+www.youtube.com###sponsor-button
+www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###header > .ytd-search.style-scope
+www.youtube.com###rendering-content > .ytd-in-feed-ad-layout-renderer.style-scope
+www.youtube.com###header
+
+! monkeytype
 monkeytype.com##.text > .top
 monkeytype.com##.logo > .text
 monkeytype.com##svg
 
-! 2023-07-25 https://www.anime-base.net
-www.anime-base.net##.col-md-4.col-lg-3
-www.anime-base.net##.sidebar
-www.anime-base.net##.navbar-static-top.navbar
-www.anime-base.net##.main-header
-www.anime-base.net##.main-footer
-www.anime-base.net##.slimScrollDiv
-www.anime-base.net##.alert-danger.alert
-www.anime-base.net##.main-sidebar
-www.anime-base.net##[href="#info"]
-
-! 2023-07-25 https://vim.rtorr.com
+! vim
 vim.rtorr.com##.link-to-repo.grid-block > p
 vim.rtorr.com##.sponsor > .container
 vim.rtorr.com##.box-body > .grid-block
@@ -31,272 +61,105 @@ vim.rtorr.com##.box-header
 vim.rtorr.com##.box-body
 vim.rtorr.com###footer
 
-! 2023-07-28 https://www.icloud.com
-||www.icloud.com/system/icloud.com/current/static/wallpaper.webp$image
-
-! 2023-07-29 https://cococut.net
-cococut.net##.menu_nav.navbar-nav.nav
-cococut.net##.col-2 > .text-center
-cococut.net##.banner_inner > .container > p
-cococut.net##div.row > section > .container
-cococut.net##.ml-auto.navbar-right.navbar-nav.nav
-cococut.net##.notranslate.logo_h.navbar-brand
-cococut.net##.faq-section
-cococut.net##.footer_area
-cococut.net###videos > div > li > .row > .col-2
-
-! 2023-07-30 https://www.youtube.com
-www.youtube.com###country-code
-
-! 2023-07-31 https://en.khanacademy.org
+! khanacademy
 en.khanacademy.org##._19tdiqu
 en.khanacademy.org##._4sjuzv
+en.khanacademy.org###top-header-container
+en.khanacademy.org##._q767c9
 
-! 2023-07-31 https://www.goodreads.com
-||i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/16850399*.jpg$image
+! goodreads
 www.goodreads.com##.responsiveSiteFooter
 www.goodreads.com##.recommendationsWidget
 www.goodreads.com##article
 www.goodreads.com##.choiceWidget__photoAndTextContainer
 www.goodreads.com##.homeTertiaryColumn
-||images.gr-assets.com/misc/1682971764-1682971764_goodreads_misc.png$image
 www.goodreads.com##.siteAnnouncement__body.gr-mediaFlexbox__desc
 www.goodreads.com##section.showForLargeWidth.u-paddingBottomMedium.gr-homePageRailContainer > div > .readingChallenge
 www.goodreads.com##.siteHeader__primaryNavInline > .siteHeader__menuList > .siteHeader__topLevelItem--home.siteHeader__topLevelItem > .siteHeader__topLevelLink
 www.goodreads.com##.siteHeader__logo
 www.goodreads.com##.siteHeader__primaryNavInline > .siteHeader__menuList > .siteHeader__topLevelItem--community.siteHeader__topLevelItem > .ignore-react-onclickoutside.primaryNavMenu > .primaryNavMenu__trigger
-||s.gr-assets.com/assets/layout/header/icn_nav_notifications.svg$image
-||s.gr-assets.com/assets/layout/header/icn_nav_discussions.svg$image
 www.goodreads.com##.dropdown__trigger--personalNav.dropdown__trigger--notifications.dropdown__trigger
 www.goodreads.com##.siteHeader__personal > .personalNav > li.personalNav__listItem > .headerPersonalNav
+www.goodreads.com##.siteHeader__topFullImageContainer
+www.goodreads.com##.yyibLinkMessage
+www.goodreads.com##.rightContainer
+www.goodreads.com##.uitext.clearFloats.buttons
+www.goodreads.com##section.showForLargeWidth.u-paddingBottomMedium.gr-homePageRailContainer:nth-of-type(2)
 
-! 2023-08-01 https://soundcloud.com
-soundcloud.com##.l-fixed.sc-browsers-enable-gpu.sc-clearfix.userSidebar
-soundcloud.com##.sc-browsers-enable-gpu.sc-clearfix.userSidebar
-soundcloud.com##.l-inner-fullwidth.m-alert_heavy.sc-p-2x.sc-text-body.sc-type-medium.banner
-soundcloud.com##.sc-py-1x.sc-px-2x.spotlightTitle
-soundcloud.com##.sc-text-secondary.spotlight__empty
-soundcloud.com##.sc-py-1x.sc-px-2x.spotlight__mine
-soundcloud.com##.sc-button-edit.sc-button-disabled.sc-button-secondary.sc-button-cta.sc-button-medium.sc-button
-soundcloud.com##.header__goUpsell_side_by_side_experience.header__link
-soundcloud.com##.header__proUpsell_side_by_side_experience.header__link.sc-link.creatorSubscriptionsButton
-||a-v2.sndcdn.com/assets/images/more-0e9e752c.svg$image
-soundcloud.com##.activities.notificationIcon
-soundcloud.com##a.header__link:nth-of-type(3)
-
-! 2023-08-02 https://en.khanacademy.org
-en.khanacademy.org###top-header-container
-
-! 2023-08-03 https://duckduckgo.com
-||duckduckgo.com/assets/logo_header.v109.svg$image
-
-! 2023-08-04 https://pomofocus.io
-pomofocus.io##.cpPZuq.sc-jrIrqw
-
-! 2023-08-04 https://duckduckgo.com
-duckduckgo.com##.js-tagline.tag-home__item
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
-||duckduckgo.com/assets/onboarding/arrow.svg$image
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
-duckduckgo.com##.onboarding-ed__arrow-teaser__arrow-wrapper
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
-
-
-! 2023-07-30 https://www.anime-base.net
-www.anime-base.net##.box-primary.box > .nav-tabs-custom > .tab-content > .active.tab-pane
-||chat.anime-base.net/?embedded=true$subdocument
-www.anime-base.net##.logo-lg
-
-! 2023-07-30 https://cococut.net
-cococut.net##.container > div.row > .col-2
-
-! 2023-07-30 https://www.anime-base.net
-www.anime-base.net##.logo
-
-! 2023-08-05 https://en.khanacademy.org
-en.khanacademy.org##._q767c9
-
-! 2023-08-05 https://www.goodreads.com
-||i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/16850397*i/27*.jpg$image
-
-! 2023-08-06 https://bandcamp.com
-bandcamp.com##.owner.fan-bio
-bandcamp.com##.extra-wide.out.menubar-2018
-bandcamp.com##.fan-banner-inner
-bandcamp.com##.loaded.menubar-outer
-bandcamp.com##.wishlist-visibility-container
-bandcamp.com##.missing-purchases-link
-bandcamp.com###propOpenWrapper > .show-player
-
-! 2023-08-09 https://academy.hackthebox.com
+! hackthebox
 academy.hackthebox.com##.w-100.justify-content-between.card-body
 academy.hackthebox.com##.mb-4.card-referral
 academy.hackthebox.com##.footer
 
-! 2023-08-12 https://duckduckgo.com
-duckduckgo.com##.js-zci-link--products.js-zci-link.zcm__link
-
-! 2023-08-17 https://de.annas-archive.org
+! annas-archive
 de.annas-archive.org##.bg-green-500.py-2.px-4
 de.annas-archive.org##div.py-2.px-4:nth-of-type(1)
 de.annas-archive.org##.justify-between.flex
 
-! 2023-08-24 https://www.youtube.com
-www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-www.youtube.com###end > .ytd-masthead.style-scope
-www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
-www.youtube.com###guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
-www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
-www.youtube.com###header > .ytd-search.style-scope
-
-! 2023-08-29 https://www.youtube.com
-www.youtube.com###guide-inner-content
-
-! 2023-08-30 https://notube.cc
+! notube
 notube.cc##section.section:nth-of-type(2)
 notube.cc##.dark-border.on-load-pages.site-header
 notube.cc##.site-bottom
 notube.cc##.copyright
+notube.net##.home-body
+notube.net##.site-bottom
+notube.net##.copyright
 
-! 2023-09-04 https://www.deepl.com
+! deepl
 www.deepl.com##.pageFooterV2-module--footerOuterContainer--CwVcZ
 www.deepl.com##.lg\:px-\[70px\].px-8.bg-white.w-full
 www.deepl.com##.lg\:px-\[70px\].empty\:hidden.p-8.space-y-8.max-w-\[1400px\].mx-auto
 www.deepl.com##div.lg\:px-\[70px\].p-8:nth-of-type(4)
-
-! 2023-09-06 https://duckduckgo.com
-duckduckgo.com##.footer
-
-! 2023-09-09 https://mail.proton.me
-mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
-
-! 2023-09-09 https://www.youtube.com
-||www.gstatic.com/youtube/img/promos/growth/fe4c4faa89006ddb08a1aa88bcc838b29f1b4b5df0dd444ffcac277d442a5fb2_122x56.webp$image
-
-! 2023-09-10 https://github.com
-github.com##.rounded-2.p-3.color-border-muted.border.color-bg-default.dashboard-changelog.mb-3
-github.com##.px-0.my-5.container-lg.footer.flex-items-between.d-flex
-github.com##.border-bottom.color-bg-subtle
-github.com##.pt-6.mt-6.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.color-border-muted.border-top.color-fg-muted.f6.pb-2.flex-items-center.d-flex.position-relative
-
-! 2023-09-12 https://www.founderio.com
-www.founderio.com##.text-block-dimmed.bg-block-dimmed.container-fluid
-www.founderio.com##.pb-lg-0.pb-10.mt-auto.gradient-half-primary-v3.content-space-t-3.position-relative.footer.bg-light
-
-! 2023-09-12 https://www.sidepreneur.de
-www.sidepreneur.de##.hero-center.cs-bg-dark.cs-overlay.section-hero > .cs-overlay-content
-www.sidepreneur.de##.hero-center.cs-bg-dark.cs-overlay.section-hero
-
-! 2023-09-12 https://www.youtube.com
-||www.gstatic.com/youtube/img/promos/growth/3808a4d68def194042b60ba984536c180fe2997e2a2cecd77f92e1d76dbca608_122x56.webp$image
-
-! 2023-09-12 https://notube.net
-notube.net##.home-body
-notube.net##.site-bottom
-
-! 2023-09-13 https://notube.net
-notube.net##.copyright
-||cdn.notube.net/images/general/logo.*$image
-||cdn.notube.net/images/general/flags.png$image
-||cdn.notube.net/images/general/wallpaper.jpg$image
-||cdn.notube.net/images/general/wallpaper.jpg$image
-
-! 2023-09-16 https://mail.proton.me
-mail.proton.me##.button-promotion--icon-gradient.button-promotion.text-center.inline-block.button-outline-weak.button
-
-! 2023-09-16 https://www.notion.so
-www.notion.so##.notion-topbar-action-buttons > div > span
-www.notion.so##.notion-topbar-share-menu
-www.notion.so##.notion-topbar-comments-button
-www.notion.so##.notion-topbar-updates-button
-www.notion.so##.notion-topbar-favorite-button
-
-! 2023-09-18 https://www.wren.co
-www.wren.co##.css-1cwxti6
-
-! 2023-09-19 https://soundcloud.com
-soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-primary.sc-button-cta.sc-button-responsive.sc-button-medium.sc-button.sc-button-insights
-soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-startstation
-soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-share
-soundcloud.com##.sc-border-light-bottom.sc-media.userDropbar
-
-! 2023-09-19 https://www.wren.co
-www.wren.co##.css-1r2ze5w
-
-! 2023-09-20 https://letterboxd.com
-letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
-||a.ltrbxd.com/*sm/upload/hv/dj/s4/0i/pro-25*.png?k=*$image
-
-! 2023-09-21 https://www.canva.com
-www.canva.com##._7ZT_TQ.ntTBlA
-www.canva.com##._6iuCOw.SfVr3Q
-www.canva.com##.A7weiw.uRvRjQ.zQlusQ.cwOZMg.ubW6qw.lsXp_w.zKTE_w.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
-www.canva.com##.vMGvkA._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.zKTE_w.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
-||static.canva.com/web/images/856bac30504ecac8dbd38dbee61de1f1.svg$image
-
-! 2023-09-21 https://www.notion.so
-www.notion.so##.notion-help-button
-
-! 2023-09-22 https://www.youtube.com
-||www.gstatic.com/youtube/img/promos/growth/2de156429e2139db739be8e230dc08db899548a94e496de27fddf81cd2407523_122x56.webp$image
-||www.gstatic.com/youtube/img/promos/growth/2de156429e2139db739be8e230dc08db899548a94e496de27fddf81cd2407523_122x56.webp$image
-
-! 2023-09-23 https://www.goodreads.com
-www.goodreads.com##.uitext.clearFloats.buttons
-
-! 2023-11-13 https://duckduckgo.com
-duckduckgo.com##.search-filters.js-search-filters
-duckduckgo.com##.search-filters-wrap
-
-! 2023-11-01 https://www.wikiart.org
-||uploads.wikiart.org/Content/wiki/img/banner_top.jpg$image
-
-! 2023-11-01 https://duckduckgo.com
-duckduckgo.com##.js-metabar-dropdowns.metabar__dropdowns
-
-! 2023-11-05 https://mail.proton.me
-mail.proton.me##.button-promotion--icon-gradient.button-promotion.button-solid-norm.button
-
-! 2023-11-08 https://soundcloud.com
-soundcloud.com##.sc-border-light-bottom.sc-text-primary.sc-type-light.g-flex-row-centered-spread.sidebarHeader
-soundcloud.com##.m-sidebar.sc-clearfix.mobileAppsButtons
-soundcloud.com##a.sc-link-secondary.sc-link-verylight:nth-of-type(5)
-soundcloud.com##.l-sidebar-right
-
-! 2023-11-13 https://www.goodreads.com
-www.goodreads.com##.siteHeader__topFullImageContainer
-www.goodreads.com##.yyibLinkMessage
-www.goodreads.com##.rightContainer
-
-! 2023-11-16 https://www.youtube.com
-||www.gstatic.com/youtube/img/promos/growth/9d01f7a7c908d01ace352b3011b1102bf447a2edc37f5b6c2a25a953deb5963a_122x56.webp$image
-
-! 2023-11-26 https://duckduckgo.com
-duckduckgo.com##.js-zci-link--videos.js-zci-link.zcm__link
-duckduckgo.com##.tile--img__title
-
-! 2023-11-29 https://chat.openai.com
-chat.openai.com##.w-\[72px\].h-\[72px\].mb-3 > .text-black.bg-white.rounded-full.justify-center.items-center.h-full.flex.relative.gizmo-shadow-stroke
-chat.openai.com##.md\:whitespace-normal.dark\:text-gray-300.text-gray-700.text-left.rounded-xl.whitespace-nowrap.w-full.group.btn-neutral.relative.btn
-chat.openai.com##.md\:px-\[60px\].dark\:text-gray-300.text-gray-600.text-xs.text-center.py-2.px-2.relative > span
-chat.openai.com##.text-xs.justify-center.items-center.w-6.h-6.flex
-
-! 2023-12-01 https://www.youtube.com
-www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
-
-! 2023-12-05 https://www.sparkasse-heilbronn.de
-www.sparkasse-heilbronn.de##.if6_footer.if6_outer > .if6_inner
-
-! 2023-12-08 https://www.youtube.com
-www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape
-
-! 2023-12-09 https://www.deepl.com
 www.deepl.com##div.lg\:px-\[70px\].p-8 > .space-y-8.max-w-\[1400px\].mx-auto
 www.deepl.com##.BasePageHeader-module--stickyHeader--Ofk9B.BasePageHeader-module--container--2By68
 www.deepl.com##.footerOuterContainer--KrrXC
 www.deepl.com##.container--RtQMd
 www.deepl.com###dl_write_banner_container > .bg-white.w-full
+
+! github
+github.com##.rounded-2.p-3.color-border-muted.border.color-bg-default.dashboard-changelog.mb-3
+github.com##.px-0.my-5.container-lg.footer.flex-items-between.d-flex
+github.com##.border-bottom.color-bg-subtle
+github.com##.pt-6.mt-6.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.color-border-muted.border-top.color-fg-muted.f6.pb-2.flex-items-center.d-flex.position-relative
+github.com##.color-fg-muted.f6.pb-6.pt-8.p-responsive.footer
+github.com##.fpwPAg.Box-sc-g0xbh4-0 > .imruoV.Box-sc-g0xbh4-0 > .wTItD.Box-sc-g0xbh4-0
+github.com##.fpwPAg.Box-sc-g0xbh4-0 > .imruoV.Box-sc-g0xbh4-0 > .pUNRw.Box-sc-g0xbh4-0
+github.com##.mt-4.f6.color-fg-muted
+
+! founderio
+www.founderio.com##.text-block-dimmed.bg-block-dimmed.container-fluid
+www.founderio.com##.pb-lg-0.pb-10.mt-auto.gradient-half-primary-v3.content-space-t-3.position-relative.footer.bg-light
+
+! soundcloud
+soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-primary.sc-button-cta.sc-button-responsive.sc-button-medium.sc-button.sc-button-insights
+soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-startstation
+soundcloud.com##.userInfoBar__buttons > .sc-button-group > .sc-button-responsive.sc-button-medium.sc-button.sc-button-secondary.sc-button-share
+soundcloud.com##.sc-border-light-bottom.sc-media.userDropbar
+soundcloud.com##.sc-border-light-bottom.sc-text-primary.sc-type-light.g-flex-row-centered-spread.sidebarHeader
+soundcloud.com##.m-sidebar.sc-clearfix.mobileAppsButtons
+soundcloud.com##a.sc-link-secondary.sc-link-verylight:nth-of-type(5)
+soundcloud.com##.l-sidebar-right
+
+! wren
+www.wren.co##.css-1r2ze5w
+www.wren.co##.css-1cwxti6
+
+! openai
+chat.openai.com##.w-\[72px\].h-\[72px\].mb-3 > .text-black.bg-white.rounded-full.justify-center.items-center.h-full.flex.relative.gizmo-shadow-stroke
+chat.openai.com##.md\:whitespace-normal.dark\:text-gray-300.text-gray-700.text-left.rounded-xl.whitespace-nowrap.w-full.group.btn-neutral.relative.btn
+chat.openai.com##.md\:px-\[60px\].dark\:text-gray-300.text-gray-600.text-xs.text-center.py-2.px-2.relative > span
+chat.openai.com##.text-xs.justify-center.items-center.w-6.h-6.flex
+chat.openai.com##.font-medium.text-2xl.mb-5
+chat.openai.com###radix-\:r5o\: > div
+chat.openai.com##.text-token-text-tertiary
+chat.openai.com###radix-\:r5f\: > div
+chat.openai.com##.md\:px-\[60px\].text-token-text-secondary.text-xs.text-center.py-2.px-2.relative > span
+chat.openai.com##.ml-2.focus\:ring-0.border-token-border-medium.border.rounded-lg.whitespace-nowrap.justify-center.items-center.w-9.h-9.flex.btn-small.btn-neutral.relative.btn
+chat.openai.com##.pr-1.gap-2.flex > .focus\:ring-0.border-token-border-medium.border.rounded-lg.whitespace-nowrap.justify-center.items-center.w-9.h-9.flex.btn-small.btn-neutral.relative.btn
+
+! sparkasse
+www.sparkasse-heilbronn.de##.if6_footer.if6_outer > .if6_inner
+www.sparkasse-heilbronn.de##.section.mdi.cbox-small.cbox-campaign.cbox
 
 ! 2023-12-09 https://mail.proton.me
 mail.proton.me##.reset4print.flex-nowrap.flex.header
@@ -306,11 +169,153 @@ mail.proton.me##.drawer-visibility-control-button.m-auto.button-solid-weak.butto
 mail.proton.me##.md\:gap-1.flex-nowrap.flex
 mail.proton.me##.gap-2.toolbar-inner.flex-nowrap.flex-item-noshrink.flex-align-items-center.flex > .flex-item-noshrink.flex
 mail.proton.me##.toolbar-button--small-icon.toolbar-button--small.toolbar-button.button-ghost-weak.button-small.button
+mail.proton.me##.button-promotion--icon-gradient.button-promotion.text-center.inline-block.button-outline-weak.button
+mail.proton.me##li.mt-4.navigation-link-header-group--expandable.navigation-link-header-group.mb-0\.5.px-3.w-full.navigation-item:nth-of-type(1)
+mail.proton.me##li.mt-4.navigation-link-header-group--expandable.navigation-link-header-group.mb-0\.5.px-3.w-full.navigation-item:nth-of-type(2)
+mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
+mail.proton.me##.button-promotion--icon-gradient.button-promotion.button-solid-norm.button
+mail.proton.me##.py-2.justify-space-between.flex-nowrap.flex
+mail.proton.me##.no-print.shrink-0.apps-dropdown-button-icon.icon-24p
+mail.proton.me##.active.navigation-link
+mail.proton.me##div:nth-of-type(7)
+mail.proton.me##div > div > .group-hover-opacity-container.group-hover-hide-container.mb-0\.5.px-3.w-full.navigation-item > .navigation-link
+mail.proton.me##.sidebar-meter-storage.is-thin.meter-bar
 
-! 2023-12-09 https://www.goodreads.com
-||images.gr-assets.com/misc/1699479412-1699479412_goodreads_misc.png$image
-www.goodreads.com##section.showForLargeWidth.u-paddingBottomMedium.gr-homePageRailContainer:nth-of-type(2)
+! music.youtube
+music.youtube.com###sections
+||music.youtube.com/img/on_platform_logo_dark.svg$image
 
-! 2023-12-10 https://github.com
-github.com##.color-fg-muted.f6.pb-6.pt-8.p-responsive.footer
+! wefunder
+wefunder.com##.cursor-pointer.py-2.px-6.w-full.flex
+wefunder.com##[href="/explore/investors"] > .md\:w-\[270px\].w-full.bg-coolgray-200.rounded-lg.p-\[2px\] > .rounded-md.md\:py-4.py-2.px-4.bg-white.flex-col.flex.relative
 
+! localmonero
+localmonero.co##.MuiGrid-container-187.jss5.MuiGrid-root-186 > div > div > .MuiGrid-grid-xs-12-232.MuiGrid-item-188.MuiGrid-root-186
+localmonero.co##.MuiGrid-container-187.jss5.MuiGrid-root-186 > div > div > div
+localmonero.co##.MuiGrid-container-5071.jss4887.MuiGrid-root-5070 > div > div > div
+localmonero.co##.MuiGrid-container-2356.jss2162.MuiGrid-root-2355 > div > div > div
+
+! admiralmarkets
+admiralmarkets.com###amcy-de-navigation-reward
+||dce5jani6jm7e.cloudfront.net/data/images/crypto_banner.svg$image
+||dce5jani6jm7e.cloudfront.net/data/images/crypto_banner.svg$image
+
+! buhl
+www.buhl.de##.aufmacher-content-left
+www.buhl.de##.aufmacher-content
+www.buhl.de##.headerNoteContainer
+
+! tk
+www.tk.de###tkde-footer-navi
+www.tk.de##.g-footer__cta
+www.tk.de###tkde-footer
+
+! searx
+searx.thegpm.org##.text-muted
+searx.thegpm.org##.advanced.col-md-offset-2.col-md-8 > label
+
+! mql5
+||www.mql5.com/ft/si/wy5m8swf9c26rkskz2.jpg$image
+www.mql5.com##.desktop.footer
+||www.mql5.com/ft/si/f11c84bn34txrkskz2.jpg$image
+||www.mql5.com/ft/si/07zn0tuc7czunhy5z2.jpg$image
+||www.mql5.com/ft/si/urdtjfg377z70gzuz2.png$image
+||www.mql5.com/ft/si/9gp0j7zt0x5nhy5z2.jpg$image
+||www.mql5.com/ft/sh/hcfwvn5r4n12yuhkz2/index.html?link=https%3A%2F%2Fwww.metatrader5.com%2Fde%2Fnews%2F2270%3Futm_source%3Dwww.mql5.com%26utm_medium%3Ddisplay%26utm_term%3Dmessenger.for.traders%26utm_content%3Ddownload.app%26utm_campaign%3D0524.mql5.channels&a=wskbtrglswuidfrkhbmthtmnrtixuxjf&s=7c6b545991609b7693cdb5c829210d947973c139580ccdf53932f9f6be933aa7&v=1&w=800&h=80&r=https%3A%2F%2Fwww.mql5.com%2Fde%2Fusers%2Fmarlonivo&host=https%3A%2F%2Fwww.mql5.com%2Fft%2F&id=bfogggabsofabcpxuzmgaibarmaxasdrj&fz_uniq=5190017035990098638&custom=$subdocument
+
+! hackers-arise
+||static.wixstatic.com/media/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg/v1/fill/w_980,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg$image
+||static.wixstatic.com/media/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg/v1/fill/w_980,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg$image
+www.hackers-arise.com##.StylableButton2545352419__container
+www.hackers-arise.com##.StylableButton2545352419__link.wixui-button.style-lbf3116c__root.StylableButton2545352419__root
+
+! linuxcommandlibrary
+linuxcommandlibrary.com##footer
+||linuxcommandlibrary.com/images/af/stge.webp$image
+||linuxcommandlibrary.com/images/af/stge.webp$image
+linuxcommandlibrary.com###top-border
+||linuxcommandlibrary.com/images/af/stge.webp$image
+
+! gmail
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
+mail.google.com##.aeG
+mail.google.com##.J-JN-I-Kq.J-JN-I.amH.J-J5-Ji
+mail.google.com##.a5E
+mail.google.com##.apO
+mail.google.com##.apc > div > .ajd
+mail.google.com##.gb_Oe > svg > path
+mail.google.com##.Di
+mail.google.com##.aT5-aOt-I-Jp.brC-dA-I.aT5-aOt-I > .aT5-aOt-I-JX-Jw
+mail.google.com##.V4.pfiaof.l2
+mail.google.com##.bzn.iH > .G-tF > div.J-J5-Ji.G-aE.G-Ni > .L3.T-I-ax7.bvt.J-J5-Ji.T-I > .asa
+mail.google.com##.bzn.iH > .G-tF > div.J-J5-Ji.G-aE.G-Ni > .L3.T-I-ax7.uUQygd.J-J5-Ji.T-I > .asa
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/add_task_baseline_nv700_20dp.png$image
+mail.google.com##.L3.T-I-ax7.uUQygd.J-J5-Ji.T-I > .asa
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/add_task_baseline_nv700_20dp.png$image
+mail.google.com##.L3.T-I-ax7.bvt.J-J5-Ji.T-I > .asa
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/report_baseline_nv700_20dp.png$image
+mail.google.com##.L3.T-I-ax7.VJ.J-J5-Ji.T-I > .asa
+mail.google.com##.gt.h9
+mail.google.com##.it.bcf.bAw
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_important_baseline_nv700_20dp.png$image
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_important_baseline_nv700_20dp.png$image
+mail.google.com##.brC-bsf-aT5-aOt
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
+mail.google.com##.t7
+
+! canva
+www.canva.com##._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.zKTE_w.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.ErQu3g.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.NT2yCg.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.ETF18w.DwkdQQ.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.NT2yCg.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.SVTzTw._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.YPTJew.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.fFOiLQ.an_NAA
+www.canva.com##.WSUBQw > ._8VoL_g > ._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.YPTJew.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.Ov0eeA._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.YPTJew.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A.DNpAZA._1QoxDw
+www.canva.com##.s5aCnQ
+www.canva.com##.vXf8lw.fU4Eyg
+www.canva.com##.AqGSzQ.pgaA2w.uRvRjQ.zQlusQ.cwOZMg.HySjhA.YPTJew.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.ETF18w.J3FTYg.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.YPTJew.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##._9J3UqA > ._8VoL_g
+www.canva.com##.A4H20g.Y9yBYg.pgaA2w.uRvRjQ.zQlusQ.cwOZMg.HySjhA.YPTJew.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.iBrz7Q._2vR8_A.fc3CUQ._9Mb__A.pIappQ
+www.canva.com##.uRvRjQ.zQlusQ.cwOZMg.ubW6qw.lsXp_w.NT2yCg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+www.canva.com##.jjpTzQ
+www.canva.com##.iBrz7Q._9Mb__A > .iBrz7Q._9Mb__A > .x6XCCg
+www.canva.com##.x6XCCg > .fM_HdA._5Ob_nQ.fFOiLQ
+www.canva.com##.xRxCMw
+
+! gmail
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/delete_baseline_nv700_20dp.png$image
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/more_vert_baseline_nv700_20dp.png$image
+||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_baseline_nv700_20dp.png$image
+mail.google.com###\:4 > .E.D.G-atb
+mail.google.com##div.J-J5-Ji.G-aE.G-Ni:nth-of-type(3)
+mail.google.com##.mA.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.nN.J-J5-Ji.T-I > .asa
+
+! ebay
+||i.ebayimg.com/images/g/SQYAAOSwkwZln~Lo/s-l1600.webp$image
+||i.ebayimg.com/images/g/TPgAAOSwGeplKWxx/s-l1600.webp$image
+www.ebay.de##.vl-banner-full-bleed__image-container
+www.ebay.de##.vl-banner-multi-cta.vl-banner-color-block.vl-banner > .vl-banner-color-block__container
+www.ebay.de##.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+www.ebay.de##.vl-feedback__header
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+www.ebay.de##[href="/srv/survey/a/hp.hp"]
+www.ebay.de##.vl-flyout-nav__container
+www.ebay.de###gh-shop > .gh-control
+www.ebay.de###vlGlobalFooter > div
+www.ebay.de###placement101196 > .recs-module > .merch-placements-container > .merch-placement-layout > .merch-card-container > .merch-cardlist-container > .merch-item-list-padding.merch-col-items-1.merch-item-list-container
+www.ebay.de###placement101195 > .recs-module > .merch-placements-container > .merch-placement-layout > .merch-card-container > .merch-cardlist-container > .merch-item-list-padding.merch-col-items-1.merch-item-list-container
+www.ebay.de##.gh-flex.gh-w
+www.ebay.de##.m-top-nav__feedback
+pay.ebay.de##.text-center.survey > span
+pay.ebay.de##.gf-legal
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
+
+! skycanner
+www.skyscanner.de##.strevda-sidebar
+www.skyscanner.de##.PriceAlertsBanner_banner__M2E0M.BpkCard_bpk-card--padded__OTI5O.BpkCard_bpk-card--atomic-button__YWFjM.BpkCard_bpk-card__NTJiY
+www.skyscanner.de##.CrossSellAdvertV3_container__N2RiM.BpkCard_bpk-card__NTJiY
+www.skyscanner.de##.DetailsPanelContent_advert__YjZmN.BpkText_bpk-text--heading-4__MzBkN.BpkText_bpk-text__MWZkY
