@@ -1,16 +1,13 @@
+! Ublock configurations for a minimalistic distraction free experience for following Websites: 
+!
 ! duckduckgo
 duckduckgo.com##.js-header-aside.header--aside
 duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
 duckduckgo.com##.js-feedback-start.feedback-btn__send
 duckduckgo.com##.feedback-btn.btn
 duckduckgo.com##.js-zci-link--news.js-zci-link.zcm__link
-||duckduckgo.com/assets/logo_header.v109.svg$image
 duckduckgo.com##.js-tagline.tag-home__item
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
-||duckduckgo.com/assets/onboarding/arrow.svg$image
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
 duckduckgo.com##.onboarding-ed__arrow-teaser__arrow-wrapper
-||duckduckgo.com/assets/onboarding/bathroomguy/teaser-2@2x.png$image
 duckduckgo.com##.js-zci-link--products.js-zci-link.zcm__link
 duckduckgo.com##.js-zci-link--videos.js-zci-link.zcm__link
 duckduckgo.com##.tile--img__title
@@ -47,6 +44,14 @@ www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 www.youtube.com###header > .ytd-search.style-scope
 www.youtube.com###rendering-content > .ytd-in-feed-ad-layout-renderer.style-scope
 www.youtube.com###header
+www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.style-scope
+
+! ebay
+www.ebay.de##.vl-banner-multi-cta.vl-banner-color-block.vl-banner > .vl-banner-color-block__container > .vl-banner-color-block__flex-container > .vl-banner-color-block__content
+www.ebay.de##.focus-inset.vl-banner-color-block__image-link
+www.ebay.de##.has-fine-print.vl-banner-color-block__content
+www.ebay.de##.vl-flyout-nav__container
+www.ebay.de###vlGlobalFooter > div
 
 ! monkeytype
 monkeytype.com##.text > .top
@@ -85,6 +90,9 @@ www.goodreads.com##.yyibLinkMessage
 www.goodreads.com##.rightContainer
 www.goodreads.com##.uitext.clearFloats.buttons
 www.goodreads.com##section.showForLargeWidth.u-paddingBottomMedium.gr-homePageRailContainer:nth-of-type(2)
+www.goodreads.com##.gr-mediaFlexbox--columnDirection.gr-mediaFlexbox.siteAnnouncement
+www.goodreads.com##footer > span
+www.goodreads.com##section.showForLargeWidth.u-paddingBottomMedium.gr-homePageRailContainer > div > .shelfDisplay > .u-marginTopXSmall
 
 ! hackthebox
 academy.hackthebox.com##.w-100.justify-content-between.card-body
@@ -125,6 +133,7 @@ github.com##.color-fg-muted.f6.pb-6.pt-8.p-responsive.footer
 github.com##.fpwPAg.Box-sc-g0xbh4-0 > .imruoV.Box-sc-g0xbh4-0 > .wTItD.Box-sc-g0xbh4-0
 github.com##.fpwPAg.Box-sc-g0xbh4-0 > .imruoV.Box-sc-g0xbh4-0 > .pUNRw.Box-sc-g0xbh4-0
 github.com##.mt-4.f6.color-fg-muted
+github.com##.color-fg-muted.f6.pb-6.pt-8.footer
 
 ! founderio
 www.founderio.com##.text-block-dimmed.bg-block-dimmed.container-fluid
@@ -156,12 +165,15 @@ chat.openai.com###radix-\:r5f\: > div
 chat.openai.com##.md\:px-\[60px\].text-token-text-secondary.text-xs.text-center.py-2.px-2.relative > span
 chat.openai.com##.ml-2.focus\:ring-0.border-token-border-medium.border.rounded-lg.whitespace-nowrap.justify-center.items-center.w-9.h-9.flex.btn-small.btn-neutral.relative.btn
 chat.openai.com##.pr-1.gap-2.flex > .focus\:ring-0.border-token-border-medium.border.rounded-lg.whitespace-nowrap.justify-center.items-center.w-9.h-9.flex.btn-small.btn-neutral.relative.btn
+chat.openai.com###radix-\:rfi\: > div
 
 ! sparkasse
 www.sparkasse-heilbronn.de##.if6_footer.if6_outer > .if6_inner
 www.sparkasse-heilbronn.de##.section.mdi.cbox-small.cbox-campaign.cbox
+www.sparkasse-heilbronn.de##div.if6_opener > .ref > .ty1
+www.sparkasse-heilbronn.de##div.if6_opener > .ref
 
-! 2023-12-09 https://mail.proton.me
+! proton
 mail.proton.me##.reset4print.flex-nowrap.flex.header
 mail.proton.me##.flex-nowrap.flex-align-items-center.flex-justify-space-between.flex-item-noshrink.md\:flex.hidden.logo-container
 mail.proton.me##.py-2.flex-justify-space-between.flex-nowrap.flex
@@ -181,9 +193,8 @@ mail.proton.me##div:nth-of-type(7)
 mail.proton.me##div > div > .group-hover-opacity-container.group-hover-hide-container.mb-0\.5.px-3.w-full.navigation-item > .navigation-link
 mail.proton.me##.sidebar-meter-storage.is-thin.meter-bar
 
-! music.youtube
+! youtubemusic
 music.youtube.com###sections
-||music.youtube.com/img/on_platform_logo_dark.svg$image
 
 ! wefunder
 wefunder.com##.cursor-pointer.py-2.px-6.w-full.flex
@@ -197,8 +208,6 @@ localmonero.co##.MuiGrid-container-2356.jss2162.MuiGrid-root-2355 > div > div > 
 
 ! admiralmarkets
 admiralmarkets.com###amcy-de-navigation-reward
-||dce5jani6jm7e.cloudfront.net/data/images/crypto_banner.svg$image
-||dce5jani6jm7e.cloudfront.net/data/images/crypto_banner.svg$image
 
 ! buhl
 www.buhl.de##.aufmacher-content-left
@@ -213,31 +222,22 @@ www.tk.de###tkde-footer
 ! searx
 searx.thegpm.org##.text-muted
 searx.thegpm.org##.advanced.col-md-offset-2.col-md-8 > label
+searx.be##.searxng-navbar
+searx.be##small
+searx.be##.advanced.col-md-offset-2.col-md-8 > label
 
 ! mql5
-||www.mql5.com/ft/si/wy5m8swf9c26rkskz2.jpg$image
 www.mql5.com##.desktop.footer
-||www.mql5.com/ft/si/f11c84bn34txrkskz2.jpg$image
-||www.mql5.com/ft/si/07zn0tuc7czunhy5z2.jpg$image
-||www.mql5.com/ft/si/urdtjfg377z70gzuz2.png$image
-||www.mql5.com/ft/si/9gp0j7zt0x5nhy5z2.jpg$image
-||www.mql5.com/ft/sh/hcfwvn5r4n12yuhkz2/index.html?link=https%3A%2F%2Fwww.metatrader5.com%2Fde%2Fnews%2F2270%3Futm_source%3Dwww.mql5.com%26utm_medium%3Ddisplay%26utm_term%3Dmessenger.for.traders%26utm_content%3Ddownload.app%26utm_campaign%3D0524.mql5.channels&a=wskbtrglswuidfrkhbmthtmnrtixuxjf&s=7c6b545991609b7693cdb5c829210d947973c139580ccdf53932f9f6be933aa7&v=1&w=800&h=80&r=https%3A%2F%2Fwww.mql5.com%2Fde%2Fusers%2Fmarlonivo&host=https%3A%2F%2Fwww.mql5.com%2Fft%2F&id=bfogggabsofabcpxuzmgaibarmaxasdrj&fz_uniq=5190017035990098638&custom=$subdocument
 
 ! hackers-arise
-||static.wixstatic.com/media/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg/v1/fill/w_980,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg$image
-||static.wixstatic.com/media/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg/v1/fill/w_980,h_422,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6a4a49_b8550788a3cb4d98b8a188981376a263~mv2.jpg$image
 www.hackers-arise.com##.StylableButton2545352419__container
 www.hackers-arise.com##.StylableButton2545352419__link.wixui-button.style-lbf3116c__root.StylableButton2545352419__root
 
 ! linuxcommandlibrary
 linuxcommandlibrary.com##footer
-||linuxcommandlibrary.com/images/af/stge.webp$image
-||linuxcommandlibrary.com/images/af/stge.webp$image
 linuxcommandlibrary.com###top-border
-||linuxcommandlibrary.com/images/af/stge.webp$image
 
 ! gmail
-||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
 mail.google.com##.aeG
 mail.google.com##.J-JN-I-Kq.J-JN-I.amH.J-J5-Ji
 mail.google.com##.a5E
@@ -249,19 +249,16 @@ mail.google.com##.aT5-aOt-I-Jp.brC-dA-I.aT5-aOt-I > .aT5-aOt-I-JX-Jw
 mail.google.com##.V4.pfiaof.l2
 mail.google.com##.bzn.iH > .G-tF > div.J-J5-Ji.G-aE.G-Ni > .L3.T-I-ax7.bvt.J-J5-Ji.T-I > .asa
 mail.google.com##.bzn.iH > .G-tF > div.J-J5-Ji.G-aE.G-Ni > .L3.T-I-ax7.uUQygd.J-J5-Ji.T-I > .asa
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/add_task_baseline_nv700_20dp.png$image
 mail.google.com##.L3.T-I-ax7.uUQygd.J-J5-Ji.T-I > .asa
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/add_task_baseline_nv700_20dp.png$image
 mail.google.com##.L3.T-I-ax7.bvt.J-J5-Ji.T-I > .asa
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/report_baseline_nv700_20dp.png$image
 mail.google.com##.L3.T-I-ax7.VJ.J-J5-Ji.T-I > .asa
 mail.google.com##.gt.h9
 mail.google.com##.it.bcf.bAw
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_important_baseline_nv700_20dp.png$image
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_important_baseline_nv700_20dp.png$image
 mail.google.com##.brC-bsf-aT5-aOt
-||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
 mail.google.com##.t7
+mail.google.com###\:4 > .E.D.G-atb
+mail.google.com##div.J-J5-Ji.G-aE.G-Ni:nth-of-type(3)
+mail.google.com##.mA.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.nN.J-J5-Ji.T-I > .asa
 
 ! canva
 www.canva.com##._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.zKTE_w.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
@@ -284,38 +281,21 @@ www.canva.com##.iBrz7Q._9Mb__A > .iBrz7Q._9Mb__A > .x6XCCg
 www.canva.com##.x6XCCg > .fM_HdA._5Ob_nQ.fFOiLQ
 www.canva.com##.xRxCMw
 
-! gmail
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/delete_baseline_nv700_20dp.png$image
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/more_vert_baseline_nv700_20dp.png$image
-||ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_baseline_nv700_20dp.png$image
-mail.google.com###\:4 > .E.D.G-atb
-mail.google.com##div.J-J5-Ji.G-aE.G-Ni:nth-of-type(3)
-mail.google.com##.mA.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.nN.J-J5-Ji.T-I > .asa
-
-! ebay
-||i.ebayimg.com/images/g/SQYAAOSwkwZln~Lo/s-l1600.webp$image
-||i.ebayimg.com/images/g/TPgAAOSwGeplKWxx/s-l1600.webp$image
-www.ebay.de##.vl-banner-full-bleed__image-container
-www.ebay.de##.vl-banner-multi-cta.vl-banner-color-block.vl-banner > .vl-banner-color-block__container
-www.ebay.de##.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full
-||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
-www.ebay.de##.vl-feedback__header
-||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
-www.ebay.de##[href="/srv/survey/a/hp.hp"]
-www.ebay.de##.vl-flyout-nav__container
-www.ebay.de###gh-shop > .gh-control
-www.ebay.de###vlGlobalFooter > div
-www.ebay.de###placement101196 > .recs-module > .merch-placements-container > .merch-placement-layout > .merch-card-container > .merch-cardlist-container > .merch-item-list-padding.merch-col-items-1.merch-item-list-container
-www.ebay.de###placement101195 > .recs-module > .merch-placements-container > .merch-placement-layout > .merch-card-container > .merch-cardlist-container > .merch-item-list-padding.merch-col-items-1.merch-item-list-container
-www.ebay.de##.gh-flex.gh-w
-www.ebay.de##.m-top-nav__feedback
-pay.ebay.de##.text-center.survey > span
-pay.ebay.de##.gf-legal
-||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
-||ssl.gstatic.com/ui/v1/icons/mail/rfr/blank_1x.png$image
-
 ! skycanner
 www.skyscanner.de##.strevda-sidebar
 www.skyscanner.de##.PriceAlertsBanner_banner__M2E0M.BpkCard_bpk-card--padded__OTI5O.BpkCard_bpk-card--atomic-button__YWFjM.BpkCard_bpk-card__NTJiY
 www.skyscanner.de##.CrossSellAdvertV3_container__N2RiM.BpkCard_bpk-card__NTJiY
 www.skyscanner.de##.DetailsPanelContent_advert__YjZmN.BpkText_bpk-text--heading-4__MzBkN.BpkText_bpk-text__MWZkY
+
+! trip
+de.trip.com##.m-book-pricealert-hopper__content-wrapper
+de.trip.com##.mod-back-top-block
+de.trip.com##.mod-back-top-side-bar
+
+! steuer-web
+www.steuer-web.de##buhl-legal-footer
+www.steuer-web.de##.deeplink-group
+www.steuer-web.de##tax-automatic-boxes.ng-star-inserted
+
+! mozilla
+addons.mozilla.org##.Footer
