@@ -1,4 +1,4 @@
-/*This is a minimal Interface for Firefox Browsers, it consists out of hiding the top bars. */
+/*This is a minimal Interface for Firefox Browsers, basically consists out of hiding the top bars. */
 
 :root{
   --uc-autohide-toolbox-delay: 200ms; /* Wait 0.1s before hiding toolbars */
