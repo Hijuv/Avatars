@@ -75,16 +75,6 @@
 #navigator-toolbox[inFullscreen] > #PersonalToolbar,
 #PersonalToolbar[collapsed="true"]{ display: none }
 
-/* Uncomment this if tabs toolbar is hidden with hide_tabs_toolbar.css */
- /*#titlebar{ margin-bottom: -9px }*/
-
-/* Uncomment the following for compatibility with tabs_on_bottom.css - this isn't well tested though */
-/*
-:root{ --uc-titlebar-padding: 0px !important; }
-#navigator-toolbox{ flex-direction: column; display: flex; }
-#titlebar{ order: 2 }
-*/
-
 #TabsToolbar
 {
     visibility: collapse;
