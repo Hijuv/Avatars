@@ -1,20 +1,20 @@
-# Add this file to your hostfile to block ads, porn and general junk
-
-# On Linux:
+# Add this to block ads, porn and general junk
+#
+# Linux:
 # sudo su
 # cat ips >> /etc/hosts
-
-# On Windows:
+#
+# Windows:
 # C:\Windows\System32\drivers\etc\hosts
-
-# On Android
+#
+# Android:
 # adb root
 # adb remount
 # adb push /example/hosts /system/etc
 
 --------
 
-# Blocklist
+# Adjustments
 0.0.0.0 bandcamp.com
 0.0.0.0 soundcloud.com
 0.0.0.0 anime-base.net
