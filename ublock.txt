@@ -1,5 +1,5 @@
-! Ublock configurations for a minimalistic distraction free experience for following Websites: 
-!
+! Ublock configurations for a minimalistic and distraction free experience for following Websites: 
+
 ! duckduckgo
 duckduckgo.com##.js-header-aside.header--aside
 duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
@@ -19,11 +19,12 @@ duckduckgo.com##.text_text__q9rvO.text_text-md__x96X3.tagline_tagline__xryVo
 duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.home_exploreFeatureScroller__V5a9G.legacy-homepage-variants_scrollCta__hNjqv
 duckduckgo.com##.home_minimalHeroLogo__kX4wR.header_logoImg__PFezv.header_logoText__rodFL.header_logoStacked__XHuIN > [src^="data:image/svg+xml;base64,"]
 duckduckgo.com##.w498IXAnug_2RwtqCtbA > p
+duckduckgo.com##.js-header-logo.header__logo-wrap
 
 ! youtube
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-canvawww.youtube.com###guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com###guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
 www.youtube.com###logo-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com###icon > .yt-icon-button.style-scope
@@ -45,6 +46,14 @@ www.youtube.com###header > .ytd-search.style-scope
 www.youtube.com###rendering-content > .ytd-in-feed-ad-layout-renderer.style-scope
 www.youtube.com###header
 www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.style-scope
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+
+! youtube studio
+studio.youtube.com###help-icon > .ytcp-icon-button.style-scope.remove-defaults
+
+! youtubemusic
+music.youtube.com###sections
 
 ! ebay
 www.ebay.de##.vl-banner-multi-cta.vl-banner-color-block.vl-banner > .vl-banner-color-block__container > .vl-banner-color-block__flex-container > .vl-banner-color-block__content
@@ -193,9 +202,6 @@ mail.proton.me##div:nth-of-type(7)
 mail.proton.me##div > div > .group-hover-opacity-container.group-hover-hide-container.mb-0\.5.px-3.w-full.navigation-item > .navigation-link
 mail.proton.me##.sidebar-meter-storage.is-thin.meter-bar
 
-! youtubemusic
-music.youtube.com###sections
-
 ! wefunder
 wefunder.com##.cursor-pointer.py-2.px-6.w-full.flex
 wefunder.com##[href="/explore/investors"] > .md\:w-\[270px\].w-full.bg-coolgray-200.rounded-lg.p-\[2px\] > .rounded-md.md\:py-4.py-2.px-4.bg-white.flex-col.flex.relative
@@ -205,9 +211,6 @@ localmonero.co##.MuiGrid-container-187.jss5.MuiGrid-root-186 > div > div > .MuiG
 localmonero.co##.MuiGrid-container-187.jss5.MuiGrid-root-186 > div > div > div
 localmonero.co##.MuiGrid-container-5071.jss4887.MuiGrid-root-5070 > div > div > div
 localmonero.co##.MuiGrid-container-2356.jss2162.MuiGrid-root-2355 > div > div > div
-
-! admiralmarkets
-admiralmarkets.com###amcy-de-navigation-reward
 
 ! buhl
 www.buhl.de##.aufmacher-content-left
@@ -259,6 +262,9 @@ mail.google.com##.t7
 mail.google.com###\:4 > .E.D.G-atb
 mail.google.com##div.J-J5-Ji.G-aE.G-Ni:nth-of-type(3)
 mail.google.com##.mA.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.nN.J-J5-Ji.T-I > .asa
+mail.google.com##.TC
+mail.google.com##.ya
+mail.google.com##.gb_Pe > svg
 
 ! canva
 www.canva.com##._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.zKTE_w.G97FoQ.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
@@ -280,6 +286,7 @@ www.canva.com##.jjpTzQ
 www.canva.com##.iBrz7Q._9Mb__A > .iBrz7Q._9Mb__A > .x6XCCg
 www.canva.com##.x6XCCg > .fM_HdA._5Ob_nQ.fFOiLQ
 www.canva.com##.xRxCMw
+www.canva.com##.ETF18w._3AH3gw.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.NT2yCg.cclg9A.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
 
 ! skycanner
 www.skyscanner.de##.strevda-sidebar
@@ -297,5 +304,13 @@ www.steuer-web.de##buhl-legal-footer
 www.steuer-web.de##.deeplink-group
 www.steuer-web.de##tax-automatic-boxes.ng-star-inserted
 
-! mozilla
+! refold
+refold.la##.footer-module--footer--A_zUE > .flexContainer-module--justifyContentCenter--7Ddbs.flexContainer-module--alignItemsCenter--1sqbc.flexContainer-module--nowrap--3i7UJ.flexContainer-module--flexContainer--3KWUm
+refold.la##.footer-module--footerBar--3gqSr
+
+! others
+mxtoolbox.com##.domain-health-inline-ad
+letslearnhangul.com##.app__footer
+www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
+www.kuketz-forum.de###footer
 addons.mozilla.org##.Footer
