@@ -1,0 +1,451 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "newStyleAsUsercss": true,
+      "styleViaASS": false,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "urlInstaller": true,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "dark",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "w",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": false,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": false,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": true,
+      "manage.newUI.faviconsGray": false,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "manage.searchMode": "meta",
+      "editor.options": {},
+      "editor.toc.expanded": false,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": false,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": true,
+      "editor.tabSize": 4,
+      "editor.keyMap": "default",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "space_around_combinator": true,
+        "space_around_cmp": false
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": true,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.targetsFirst": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": 0,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 289,
+      "headerWidth.install": 289,
+      "headerWidth.manage": 289,
+      "popupWidth": 246,
+      "popupWidthMax": 280,
+      "updateInterval": 24,
+      "updateOnlyEnabled": false
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    },
+    "usercssTemplate": "Youtube/* ==UserStyle==\n@name           ? - Jan. 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    Simple Youtube\n@author         Me\n==/UserStyle== */\n@-moz-document url(\"youtube.com\") {\n\t/* YouTube Miniatur ausblenden */\n\t.ytd-thumbnail {\n\t\tdisplay: none !important;\n\t}\n}"
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://userstyles.world/api/style/8425.user.css",
+    "url": "https://userstyles.world/style/8425",
+    "installDate": 1702544632708,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           Simple Grey for Proton Mail\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    Just tweaks the colours so that everything isn't a shade of blue.\n@author         Max Topham\n==/UserStyle== */\n\n@-moz-document domain(\"proton.me\") {\n  .color-primary {\n    color: #66f;\n  }\n  \n  :root, .ui-standard {\n    --primary: #2c2c2f;\n\t--primary-contrast: #959595;\n\t--signal-danger-minor-2: #310b12;\n\t--signal-danger-minor-1: #4a111b;\n\t--signal-danger: #f5385a;\n\t--signal-danger-major-1: #f64c6b;\n\t--signal-danger-major-2: #f7607b;\n\t--signal-danger-major-3: #f8748c;\n\t--signal-danger-contrast: #c0c0c0;\n\t--signal-warning-minor-2: #331200;\n\t--signal-warning-minor-1: #4d1b00;\n\t--signal-warning: #ff9900;\n\t--signal-warning-major-1: #ffa31a;\n\t--signal-warning-major-2: #ffad33;\n\t--signal-warning-major-3: #ffb84d;\n\t--signal-warning-contrast: #000000;\n\t--signal-success-minor-2: #06221b;\n\t--signal-success-minor-1: #093228;\n\t--signal-success: #1ea885;\n\t--signal-success-major-1: #35b191;\n\t--signal-success-major-2: #4bb99d;\n\t--signal-success-major-3: #62c2aa;\n\t--signal-success-contrast: #ffffff;\n\t--signal-info-minor-2: #072029;\n\t--signal-info-minor-1: #0b2f3e;\n\t--signal-info: #239ece;\n\t--signal-info-major-1: #39a8d3;\n\t--signal-info-major-2: #4fb1d8;\n\t--signal-info-major-3: #65bbdd;\n\t--signal-info-contrast: #ffffff;\n\t--interaction-norm-minor-2: #212121;\n\t--interaction-norm-minor-1: #212121;\n\t--interaction-norm: #898989;\n\t--interaction-norm-major-1: #919191;\n\t--interaction-norm-major-2: #a3a3a3;\n\t--interaction-norm-major-3: #8b8b8b;\n\t--interaction-norm-contrast: #ffffff;\n\t--interaction-weak-minor-2: #181818;\n\t--interaction-weak-minor-1: #252525;\n\t--interaction-weak: #272727;\n\t--interaction-weak-major-1: #414141;\n\t--interaction-weak-major-2: #5e5e5e;\n\t--interaction-weak-major-3: #808080;\n\t--interaction-weak-contrast: #cdcdcd;\n\t--text-norm: #c6c6c6;\n\t--text-weak: #9a9a9a;\n\t--text-hint: #6b6b6b;\n\t--text-disabled: #5d5d5d;\n\t--text-invert: #1a1a1a;\n\t--field-norm: #5b576b;\n\t--field-hover: #6d697d;\n\t--field-disabled: #3f3b4c;\n\t--field-focus: #7c7c7c;\n\t--field-highlight: rgba(61, 61, 61, 0.3);\n\t--border-norm: #5e5e5e;\n\t--border-weak: #3a3a3a;\n\t--background-norm: #181818;\n\t--background-weak: #272727;\n\t--background-strong: #454545;\n\t--interaction-default: transparent;\n\t--interaction-default-hover: rgba(112, 112, 112, 0.2);\n\t--interaction-default-active: rgba(95, 95, 95, 0.4);\n\t--shadow-norm-opacity: 0.5;\n\t--shadow-lifted-opacity: 0.75;\n\t--backdrop-norm: rgba(0, 0, 0, 0.48);\n\t--optional-scrollbar-thumb-color: #808080;\n\t--optional-scrollbar-thumb-hover-color: #c2c2c2;\n\t--optional-link-norm: var(--interaction-norm-major-1);\n\t--optional-link-hover: var(--interaction-norm-major-2);\n\t--optional-link-active: var(--interaction-norm-major-3);\n\t--optional-email-item-unread-background-color: #2d2d2d;\n\t--optional-email-item-read-background-color: var(--background-norm);\n\t--optional-email-item-read-text-color: var(--text-weak);\n\t--optional-mini-calendar-today-color: white;\n\t--optional-logo-icon-text-color: #c5b7ff;\n  }\n}",
+    "usercssData": {
+      "name": "Simple Grey for Proton Mail",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "Just tweaks the colours so that everything isn't a shade of blue.",
+      "author": "Max Topham"
+    },
+    "author": "Max Topham",
+    "description": "Just tweaks the colours so that everything isn't a shade of blue.",
+    "name": "Simple Grey for Proton Mail",
+    "originalDigest": "1bdb1e24d3d2480ddf31fe9e45d58b6341b4141b",
+    "_id": "8f5ada9e-a198-437d-882b-1efb13533828",
+    "_rev": 1704875972110,
+    "installationUrl": "https://userstyles.world/style/8425",
+    "id": 5
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://userstyles.world/api/style/400.user.css",
+    "url": "https://github.com/Karl255/UserCSS-Styles",
+    "installDate": 1702549576528,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         github-monday\n@author       Karl_255\n@namespace    github.com/Karl255\n@version      1.0.4\n@description  Changes the GitHub contribution graph's first day of week on user profiles to Monday instead of Sunday.\n@homepageURL  https://github.com/Karl255/UserCSS-Styles\n@supportURL   https://github.com/Karl255/UserCSS-Styles/issues\n@license      unlicense\n@preprocessor default\n==/UserStyle== */\n\n@-moz-document domain(\"github.com\") {\n\t/* when the activity overview is enabled the grid rects are 10px * 10px (3px spacing) */\n\t.ContributionCalendar-grid[style*=\"border-spacing: 3px\"] {\n\t\t--dist: 13px;\n\t}\n\n\t/* but when it's disabled, they're 11px * 11px (4px spacing) */\n\t.ContributionCalendar-grid[style*=\"border-spacing: 4px\"] {\n\t\t--dist: 15px;\n\t}\n\n\t/* all days up a little */\n\t.ContributionCalendar-grid tbody tr {\n\t\ttransform: translateY(calc(var(--dist) * -1));\n\t}\n\n\t/* all sundays all the way down */\n\t.ContributionCalendar-grid tbody tr:first-child {\n\t\ttransform: translateY(calc(var(--dist) * 6));\n\t}\n\n\t/* hide first sunday (otherwise it'll be outside the box) */\n\t.ContributionCalendar-grid tbody tr:first-child .ContributionCalendar-label + * {\n\t\tdisplay: none;\n\t}\n\n\t/* show sunday text */\n\t.ContributionCalendar-grid tbody tr:first-child .ContributionCalendar-label span:last-child  {\n\t\tclip-path: unset !important;\n\t}\n}\n",
+    "usercssData": {
+      "name": "github-monday",
+      "author": "Karl_255",
+      "namespace": "github.com/Karl255",
+      "version": "1.0.4",
+      "description": "Changes the GitHub contribution graph's first day of week on user profiles to Monday instead of Sunday.",
+      "homepageURL": "https://github.com/Karl255/UserCSS-Styles",
+      "supportURL": "https://github.com/Karl255/UserCSS-Styles/issues",
+      "license": "unlicense",
+      "preprocessor": "default"
+    },
+    "author": "Karl_255",
+    "description": "Changes the GitHub contribution graph's first day of week on user profiles to Monday instead of Sunday.",
+    "name": "github-monday",
+    "originalDigest": "02a25549ed1704ad3a0ca01175a371c5a374cb68",
+    "_id": "5d875c7f-8e25-4ccb-a66e-837665bc7bee",
+    "_rev": 1704875899077,
+    "installationUrl": "https://userstyles.world/style/400",
+    "id": 6
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://userstyles.world/api/style/634.user.css",
+    "url": "https://github.com/ashwinvis/github-retro",
+    "installDate": 1702549734906,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         GitHub Retro\n@version      0.1.4\n@description  Retrofit the repository interface prior to June 2020 GitHub update\n@namespace    ashwinvis\n@author       ashwinvis\n@homepageURL  https://github.com/ashwinvis/github-retro\n@supportURL   https://github.com/ashwinvis/github-retro/issues\n@license      CC-BY-SA-4.0\n@preprocessor uso\n==/UserStyle== */\n\n@-moz-document regexp(\"^https?:\\\\/\\\\/github.com.*\") {\n\t:root {\n\t\t--line-color: rgba(0, 0, 0, 0.1);\n\t}\n\n\t@media (min-width: 1280px) {\n\t\tdiv.js-global-bar {\n\t\t\tmax-width: 1310px;\n\t\t\tmargin-left: auto;\n\t\t\tmargin-right: auto;\n\t\t}\n\t\tnav.UnderlineNav {\n\t\t\tmax-width: 1280px;\n\t\t\tmargin-left: auto;\n\t\t\tmargin-right: auto;\n\t\t}\n\t\t/* Horizontal line under header */\n\t\tmain > div:nth-child(1),\n\t\theader.orghead > div:nth-child(2) {\n\t\t\tbox-shadow: inset 0 -1px 0 var(--line-color) !important;\n\t\t}\n\t\t/*\n\t\tAt desktop resolutions some of the repo navigation items disappear. This fixes it.\n\t\tUses !important because it appears to be controlled by a resize event handler.\n\t\tPossibly a GitHub bug.\n\t\t*/\n\t\ta.js-selected-navigation-item {\n\t\t\tvisibility: unset !important;\n\t\t}\n\t\t/* Hides overflow button when not needed */\n\t\t.js-responsive-underlinenav-overflow{\n\t\t    display: none;\n\t\t}\n\t}\n}\n@-moz-document domain(\"github.com\") {\n\t/* Squarish avatars. */\n\t.avatar-user {\n\t\tborder-radius: 10% !important;\n\t}\n}\n",
+    "usercssData": {
+      "name": "GitHub Retro",
+      "version": "0.1.4",
+      "description": "Retrofit the repository interface prior to June 2020 GitHub update",
+      "namespace": "ashwinvis",
+      "author": "ashwinvis",
+      "homepageURL": "https://github.com/ashwinvis/github-retro",
+      "supportURL": "https://github.com/ashwinvis/github-retro/issues",
+      "license": "CC-BY-SA-4.0",
+      "preprocessor": "uso"
+    },
+    "author": "ashwinvis",
+    "description": "Retrofit the repository interface prior to June 2020 GitHub update",
+    "name": "GitHub Retro",
+    "originalDigest": "7f072a6573836d6120a8c55549b8d511927f088b",
+    "_id": "769d193a-5ab1-4149-b3cf-a79d5ab9b866",
+    "_rev": 1704875899078,
+    "installationUrl": "https://userstyles.world/style/634",
+    "id": 26
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://cdn.jsdelivr.net/gh/uso-archive/data@flomaster/data/usercss/57590.user.css",
+    "url": "https://uso.kkx.one/style/57590",
+    "installDate": 1703242542170,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         Doom Ebay\n@namespace    USO Archive\n@author       krizzz\n@description  Nice and Dark Ebay  Check out matching Doom Paypal    Basically just a dark simple layout with visible text, easy on the eyes, for those dark nights in front of PC.\n@version      20111206.19.32\n@license      NONE\n@preprocessor uso\n==/UserStyle== */\n@namespace url(http://www.w3.org/1999/xhtml);\n\n@-moz-document domain(\"ebay.com\") {\n\na:visited {color: #FF3333 !important}\na:link {color: #3399FF !important}\n.MktMPI {display: none !important}\n.small {color: #FF3333 !important}\n.heroimg {display: none !important}\nbody {background: #181818 !important}\nbody {color: #FF9900 !important}\n}",
+    "usercssData": {
+      "name": "Doom Ebay",
+      "namespace": "USO Archive",
+      "author": "krizzz",
+      "description": "Nice and Dark Ebay  Check out matching Doom Paypal    Basically just a dark simple layout with visible text, easy on the eyes, for those dark nights in front of PC.",
+      "version": "20111206.19.32",
+      "license": "NONE",
+      "preprocessor": "uso"
+    },
+    "author": "krizzz",
+    "description": "Nice and Dark Ebay  Check out matching Doom Paypal    Basically just a dark simple layout with visible text, easy on the eyes, for those dark nights in front of PC.",
+    "name": "Doom Ebay",
+    "originalDigest": "5d92d1ec638b0139ef5cf5c015f3b02ae274444b",
+    "_id": "028efffb-deef-4aef-bf17-6cd881649382",
+    "_rev": 1705384846682,
+    "installationUrl": "https://uso.kkx.one/style/57590",
+    "id": 28,
+    "etag": "W/\"2b9-EpQ50Q5ouCb/gIcHYtDftXCwYkk\""
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://cdn.jsdelivr.net/gh/uso-archive/data@flomaster/data/usercss/76896.user.css",
+    "url": "https://uso.kkx.one/style/76896",
+    "installDate": 1703242552436,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         eBay UK Clean 2014 v2.3 (ad-blocker)\n@namespace    USO Archive\n@author       FTD\n@description  This style will hide the \"Popular on eBay\" right side panel on the search results page and a few others, see full list below.   For best results use the Adblock Plus Firefox/Chrome add-on to remove the most common ads since this userstyle was created to remove only these annoying panels that Adblock Plus can't detect.\n@version      20160625.21.09\n@license      NONE\n@preprocessor uso\n==/UserStyle== */\n@namespace url(http://www.w3.org/1999/xhtml);\n\n@-moz-document domain(\"ebay.co.uk\") {\n\n\ndiv#RightPanel {display:none !important;}\ndiv#merch_html_100033 {display:none !important;}\ndiv#merch_html_100010 {display:none !important;}\ndiv#merch_html_100005 {display:none !important;}\nimg#gf-ebp {display:none !important;}\ndiv#FootPanel {display:none !important;}\ndiv#vFoot {display:none !important;}\ndiv#merch_html_100040 {display:none !important;}\ndiv#merch_html_100052 {display:none !important;}\ndiv#rtm_html_830 {display:none !important;}\ndiv#rtm_html_649 {display:none !important;}\ndiv#o_rtm_d {display:none !important;}\ndiv#merch_html_100018 {display:none !important;}\ndiv#glbfooter {display:none !important;}\nb#gh-doodleL {display:none !important;}\ndiv#rtm_html_194 {display:none !important;}\ndiv#rtm_html_271 {display:none !important;}\ndiv#rtm_html_189 {display:none !important;}\ndiv#rtm_html_570 {display:none !important;}\ndiv#merch_html_100276 {display:none !important;}\ndiv#merch_html_100277 {display:none !important;}\ndiv#pt-tray_0 {display:none !important;}\ndiv#nume_html_100275 {display:none !important;}\ndiv.listCntWrpr {display:none !important;}\ndiv#merch_html_100022 {display:none !important;}\ndiv#merch_html_100278 {display:none !important;}\ndiv#adItems {display:none !important;}\ndiv#merch_html_100199 {display:none !important;}\ndiv.rtmCss {display:none !important;}\ndiv#rtm_html_439 {display:none !important;}\n#RightPanel { display: none !important; }\n#Center { width: 100% !important;\nmargin-right: auto !important; } \n\n}",
+    "usercssData": {
+      "name": "eBay UK Clean 2014 v2.3 (ad-blocker)",
+      "namespace": "USO Archive",
+      "author": "FTD",
+      "description": "This style will hide the \"Popular on eBay\" right side panel on the search results page and a few others, see full list below.   For best results use the Adblock Plus Firefox/Chrome add-on to remove the most common ads since this userstyle was created to remove only these annoying panels that Adblock Plus can't detect.",
+      "version": "20160625.21.09",
+      "license": "NONE",
+      "preprocessor": "uso"
+    },
+    "author": "FTD",
+    "description": "This style will hide the \"Popular on eBay\" right side panel on the search results page and a few others, see full list below.   For best results use the Adblock Plus Firefox/Chrome add-on to remove the most common ads since this userstyle was created to remove only these annoying panels that Adblock Plus can't detect.",
+    "name": "eBay UK Clean 2014 v2.3 (ad-blocker)",
+    "originalDigest": "30f36c18370800549bdd54c6a75bd105a7d8b7ea",
+    "_id": "977f7953-3f66-4fad-bae1-8fb33f987d3e",
+    "_rev": 1704875899086,
+    "installationUrl": "https://uso.kkx.one/style/76896",
+    "id": 30,
+    "etag": "W/\"836-piV30aeZHDeCC55jmhM5sH4ti14\""
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://cdn.jsdelivr.net/gh/uso-archive/data@flomaster/data/usercss/3259.user.css",
+    "url": "https://uso.kkx.one/style/3259",
+    "installDate": 1703242557766,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         old eBay search format, more radical version\n@namespace    USO Archive\n@author       eanderson\n@description  This is a slightly more radical reversion of the eBay search formatting to an earlier state.  The left-hand sidebar menu (category browser) is narrower with original font size and the annoying animated ad spaces on top and left sides have been vanished.  Grayed-out text (subtitles etc) is returned to solid black. Alternating item list rows are shaded and links are underlined.  ------------  30 Aug 2007: To eliminate the bright yellow background on the sidebar and top searchbox, add these lines to your style:    #matchcats .matchcatecontent {background-color: #efefef !important;}  #basicsearch div {background-color: #fff !important;}  #buyingguides .buyingguidescontent {background-color: #efefef !important;}  #searchoptions #srchOpsDiv {background-color: #efefef !important;}  #productfinder {background-color: #efefef !important;}    ------------  04 Sept 2007: To eliminate the yellow searchbar gradient, add these lines:    #searchtabs {background-image: none !important; list-style-image: none !important; background-color: #fff !important;}  #basicsearch div {border: 1px solid #ccc !important; background-color: #efefef !important;}  #basicsearch div input, #basicsearch div input div {background-color: #fff !important;}  #find label {text-transform: uppercase !important; font-weight: bold !important;}  .r2-nav {background-image: none !important; background-color: #fff !important; border-color: #fff !important;}  .r2-panelHeader {display: none !important;}  .srchBox, .srchBoxE, .srchBoxW {background-image: none !important;}  #expHigh h3 {background-color: #efefef !important;}    ------------    2 Nov 2007: I've eliminated the Guides and Neighborhood boxes on the left-hand column that have inexplicably been placed above search refinement boxes.  To get those back, remove the final two CSS commands.    -----\n@version      20071104.23.01\n@license      NONE\n@preprocessor uso\n==/UserStyle== */\n@-moz-document domain(\"ebay.com\"),\n           url-prefix(\"http://cgi.ebay.com/*\") {\n\n.ebItemlist tr.ebHlOdd { background-color:#efefef !important; }\na:active,a:link,.novisited a:visited { color:#0000CC; text-decoration: underline !important;}\na:visited {text-decoration: underline !important;}\n#ebNav {width: 160px !important;}\n#ebContent {margin-left: 155px !important;}\ndiv.headerdiv, div.headerdiv a {font-size: small !important;}\ndiv.subdiv, div.subdiv a {font-size: small !important;}\n#resultsinfo .foundcontent {font-weight: bold !important; color: #000 !important;}\n.ebcTtl, .ebcDst, .navigation, .ebcCty, .ebclNum, .ebcTim {color: black !important;}\n#rtm_data_frame {display: none !important;}\n#rtm_div_184 {display: none !important;}\n#rtm_div_188 {display: none !important;}\n#FLASH_AD {display: none !important;}\n#navad {display: none !important;}\n#neighborhoods {display: none !important;}\n#buyingguides {display: none !important;}\n}",
+    "usercssData": {
+      "name": "old eBay search format, more radical version",
+      "namespace": "USO Archive",
+      "author": "eanderson",
+      "description": "This is a slightly more radical reversion of the eBay search formatting to an earlier state.  The left-hand sidebar menu (category browser) is narrower with original font size and the annoying animated ad spaces on top and left sides have been vanished.  Grayed-out text (subtitles etc) is returned to solid black. Alternating item list rows are shaded and links are underlined.  ------------  30 Aug 2007: To eliminate the bright yellow background on the sidebar and top searchbox, add these lines to your style:    #matchcats .matchcatecontent {background-color: #efefef !important;}  #basicsearch div {background-color: #fff !important;}  #buyingguides .buyingguidescontent {background-color: #efefef !important;}  #searchoptions #srchOpsDiv {background-color: #efefef !important;}  #productfinder {background-color: #efefef !important;}    ------------  04 Sept 2007: To eliminate the yellow searchbar gradient, add these lines:    #searchtabs {background-image: none !important; list-style-image: none !important; background-color: #fff !important;}  #basicsearch div {border: 1px solid #ccc !important; background-color: #efefef !important;}  #basicsearch div input, #basicsearch div input div {background-color: #fff !important;}  #find label {text-transform: uppercase !important; font-weight: bold !important;}  .r2-nav {background-image: none !important; background-color: #fff !important; border-color: #fff !important;}  .r2-panelHeader {display: none !important;}  .srchBox, .srchBoxE, .srchBoxW {background-image: none !important;}  #expHigh h3 {background-color: #efefef !important;}    ------------    2 Nov 2007: I've eliminated the Guides and Neighborhood boxes on the left-hand column that have inexplicably been placed above search refinement boxes.  To get those back, remove the final two CSS commands.    -----",
+      "version": "20071104.23.01",
+      "license": "NONE",
+      "preprocessor": "uso"
+    },
+    "author": "eanderson",
+    "description": "This is a slightly more radical reversion of the eBay search formatting to an earlier state.  The left-hand sidebar menu (category browser) is narrower with original font size and the annoying animated ad spaces on top and left sides have been vanished.  Grayed-out text (subtitles etc) is returned to solid black. Alternating item list rows are shaded and links are underlined.  ------------  30 Aug 2007: To eliminate the bright yellow background on the sidebar and top searchbox, add these lines to your style:    #matchcats .matchcatecontent {background-color: #efefef !important;}  #basicsearch div {background-color: #fff !important;}  #buyingguides .buyingguidescontent {background-color: #efefef !important;}  #searchoptions #srchOpsDiv {background-color: #efefef !important;}  #productfinder {background-color: #efefef !important;}    ------------  04 Sept 2007: To eliminate the yellow searchbar gradient, add these lines:    #searchtabs {background-image: none !important; list-style-image: none !important; background-color: #fff !important;}  #basicsearch div {border: 1px solid #ccc !important; background-color: #efefef !important;}  #basicsearch div input, #basicsearch div input div {background-color: #fff !important;}  #find label {text-transform: uppercase !important; font-weight: bold !important;}  .r2-nav {background-image: none !important; background-color: #fff !important; border-color: #fff !important;}  .r2-panelHeader {display: none !important;}  .srchBox, .srchBoxE, .srchBoxW {background-image: none !important;}  #expHigh h3 {background-color: #efefef !important;}    ------------    2 Nov 2007: I've eliminated the Guides and Neighborhood boxes on the left-hand column that have inexplicably been placed above search refinement boxes.  To get those back, remove the final two CSS commands.    -----",
+    "name": "old eBay search format, more radical version",
+    "originalDigest": "ed411f5a844f8952d35305931df2fce46b6a5139",
+    "_id": "a2dcaae8-284e-4fa0-b4e0-17b68cdd4227",
+    "_rev": 1705384843966,
+    "installationUrl": "https://uso.kkx.one/style/3259",
+    "id": 31,
+    "etag": "W/\"bcc-hozviu+bVVSUeIaWMiVKWeBPrpg\""
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://cdn.jsdelivr.net/gh/uso-archive/data@flomaster/data/usercss/89090.user.css",
+    "url": "https://uso.kkx.one/style/89090",
+    "installDate": 1703494617848,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         Another dark Arch Linux theme\n@namespace    USO Archive\n@author       kiwii\n@description  A quick and dirty dark theme for archlinux.org. Works for the front page, wiki, packages, aur & forums. <strike>Forum support coming soon (maybe).</strike> Kinda fixed, I guess.\n@version      20141221.23.54\n@license      CC-BY-SA-4.0\n@preprocessor uso\n==/UserStyle== */\n@namespace url(http://www.w3.org/1999/xhtml);\n\n@-moz-document domain(\"archlinux.org\") {\n    body, #content, table {\n        background-color: #201f1f !important;\n        color: #d4d2cf !important;\n    }\n    h1, h2, h3, h4, h5 {\n        color: #FFFFFF !important;\n    }\n    pre, code, .pBody, #p-cactions li a {\n        background-color: #2b2a2a !important;\n        border: none !important;\n        color: #d4d2cf !important;\n    }\n    div, #p-personal .portlet, #p-personal .pBody, #p-cactions .pBody {\n        background-color: #201f1f !important;\n        color: #d4d2cf !important;\n    }\n    input {\n        background-color: #2b2a2a !important;\n        color: #d4d2cf !important;\n    }\n    table.results th {\n        background-color: #2b2a2a !important;\n    }\n    table.results tr.odd {\n        background-color: #373636 !important;\n    }\n    table.results tr.even {\n        background-color: #2b2a2a !important;\n    }\n    .pun .punwrap, .pun .blockpost h2 {\n        border: none;\n        background: none;\n        border-bottom: 1px dotted #BBB;\n        border-top: 1px dotted #BBB;\n    }\n    #brdmain, .pun .blockpost .postbody, .pun .blockpost .postfoot, .pun .blockpost, .pun .quotebox, .pun .codebox, .pun .pagelink a, .pun .pagelink * {\n        border-style: none !important;\n    }\n    .pun .quotebox, pre, code, .pun .quotebox blockquote div {\n        background-color: #2B2A2A !important;\n    }\n    #brdmenu a, #brdmenu a:link, #brdmenu a:visited, .pun .blocktable * {\n        background-color: #201f1f !important;\n        border: none !important;\n    }\n    .pun .blocktable tr {\n        border-top: 1px dotted #BBB !important;\n    }\n}",
+    "usercssData": {
+      "name": "Another dark Arch Linux theme",
+      "namespace": "USO Archive",
+      "author": "kiwii",
+      "description": "A quick and dirty dark theme for archlinux.org. Works for the front page, wiki, packages, aur & forums. <strike>Forum support coming soon (maybe).</strike> Kinda fixed, I guess.",
+      "version": "20141221.23.54",
+      "license": "CC-BY-SA-4.0",
+      "preprocessor": "uso"
+    },
+    "author": "kiwii",
+    "description": "A quick and dirty dark theme for archlinux.org. Works for the front page, wiki, packages, aur & forums. <strike>Forum support coming soon (maybe).</strike> Kinda fixed, I guess.",
+    "name": "Another dark Arch Linux theme",
+    "originalDigest": "8210302ecd25414fe65e00c7ba14b3320322aded",
+    "_id": "2e4112bb-27e3-4d79-a320-fd5d08be4389",
+    "_rev": 1704875899092,
+    "installationUrl": "https://uso.kkx.one/style/89090",
+    "id": 35,
+    "etag": "W/\"829-XWvt7y2kZgTo+ZMrPl3mbpjTwZo\""
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://cdn.jsdelivr.net/gh/uso-archive/data@flomaster/data/usercss/270017.user.css",
+    "url": "https://uso.kkx.one/style/270017",
+    "installDate": 1703494212928,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name         wide chat\n@namespace    USO Archive\n@author       Derek Moore\n@description  wide chat\n@version      20230925.07.55\n@license      NONE\n@preprocessor uso\n==/UserStyle== */\n@-moz-document domain('chat.openai.com') {\n  .m-auto {\n    margin: 10%;\n    margin-top: 1%;\n    margin-bottom: 1%;\n  }\n  \n  textarea[data-id] {\n    min-height: 48px !important;\n  }\n  \n  /* Menu Closed */\n  .md\\:max-w-3xl {\n    max-width: 90%;\n  }\n  \n  .overflow-auto {\n    overflow: clip;\n  }\n  \n  /* Menu Opened */\n  .xl\\:max-w-3xl {\n    max-width: 90%;\n  }\n  \n  \n  .gap-1 {\n    gap: 0;\n  }\n  .gap-2 {\n    gap: 0;\n  }\n  .gap-3 {\n    gap: 0;\n  }\n  .gap-4 {\n    gap: 0;\n  }\n  .gap-5 {\n    gap: 0;\n  }\n  .gap-6 {\n    gap: 0;\n  }\n  .gap-7 {\n    gap: 0;\n  }\n  .overflow-x-auto {\n    overflow-x: auto;\n    scrollbar-width: 0;\n    \n  }\n  \n  \n  * {\n    --tw-translate-x: 15%;\n    --tw-translate-y: 200%;\n    scrollbar-width: 0;\n  }\n  \n  \n  \n  .text-base,\n  .prose {\n    line-height: 1.5;\n    padding: 1;\n    scrollbar-width: 0;\n  }\n  \n  \n  .h-full.dark\\:bg-gray-800 {\n    padding-bottom: 14vh;\n    max-height: 100%;\n  }\n  \n  ::-webkit-scrollbar {\n    width: 0;\n    background: transparent; \n  }\n}",
+    "usercssData": {
+      "name": "wide chat",
+      "namespace": "USO Archive",
+      "author": "Derek Moore",
+      "description": "wide chat",
+      "version": "20230925.07.55",
+      "license": "NONE",
+      "preprocessor": "uso"
+    },
+    "author": "Derek Moore",
+    "description": "wide chat",
+    "name": "wide chat",
+    "originalDigest": "d80f9e4268a1ffd0b5ea821ed9f452b9dee25cbf",
+    "_id": "a62141e1-6fad-4ee8-a5c1-7346ba57588c",
+    "_rev": 1704875899093,
+    "installationUrl": "https://uso.kkx.one/style/270017",
+    "id": 43,
+    "updateDate": 1703494505428
+  },
+  {
+    "enabled": true,
+    "installDate": 1706081981310,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "\t\t/* ==UserStyle==\n@name           ? - Jan. 2024\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    Simple Youtube\n@author         Me\n==/UserStyle== */\n@-moz-document domain(\"youtube.com\") {\n\n/* Zentriert die Suchleiste */\n.ytd-masthead #search-input input {\n    display: flex !important;\n    justify-content: center !important;\n    margin-top: 20px; /* Einstellbarer Abstand nach oben */\n     }\n}",
+    "usercssData": {
+      "name": "? - Jan. 2024",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "Simple Youtube",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "Simple Youtube",
+    "name": "? - Jan. 2024",
+    "updateDate": 1706869973238,
+    "_id": "aa2e3bb2-91e1-426c-9ffe-c14765fa13a3",
+    "_rev": 1706869973239,
+    "id": 63,
+    "customName": "Simple Youtube"
+  },
+  {
+    "enabled": true,
+    "updateUrl": "https://userstyles.world/api/style/7201.user.css",
+    "url": "https://userstyles.world/style/7201",
+    "installDate": 1706183078299,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           Old Gmail 2018-2022\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    Fixes to bring back the old gmail design\n@author         Jugami1\n==/UserStyle== */\n\n@-moz-document domain(\"mail.google.com\") {\n\n/* header*/\n#gb {\n  background-color: #fff !important;\n  box-shadow: inset 0 -1px 0 #eceff1 !important;\n}\n\n/* left sidebar */\n.bkL {\n  background-color: #fff !important;\n}\n\n/* right sidebar */\n.bAw .brC-aT5-aOt-Jw {\n  background-color: #fff !important;\n}\n\n/* active/hover fixes */\n.TK .TO.nZ:active, .TK .TO.ol:active, .TK .TO.nZ, .TK .TO.ol, .byl .TK .nZ.aBP, .byl .TK .nZ.aS3, .byl .TK .nZ.aS4, .byl .TK .nZ.aS5, .byl .TK .nZ.aS6 {\n  background-color: #f1f1f1 !important;\n}\n\n/* new mail button */\n.z0 > .L3:hover, .z0 > .T-I-KE.L3:focus {\n  background-color: #f6f6f6;\n}\n\n.WR .z0 > .L3 {\n  border-radius: 24px;\n  height: 48px;\n}\n\n.WR .z0 {\n  height: 50px;\n  margin: 15px 0 15px 0;\n}\n\n.z0 > .L3 {\n  background-color: #fff;\n  box-shadow: 0 1px 2px 0 rgba(60,64,67,0.200), 0 2px 4px 2px rgba(60,64,67,0.100);\n}\n\n.WR .z0 > .L3::before, .WR.anZ .z0 > .L3::before {\n  /*filter: invert(38%) sepia(91%) saturate(1510%) hue-rotate(204deg) brightness(103%) contrast(91%);*/\n  filter: invert(25%) sepia(43%) saturate(4735%) hue-rotate(349deg) brightness(89%) contrast(90%)\n}\n\n.WR .z0 > .L3 {\n  /*color: #2e7ff5;*/\n  color: #d93426;\n}\n\n.bhZ:not(.bym) .z0 > .L3 {\n  border-radius: 28px;\n}\n\n/* e-mail list */\n.yO {\n  background: #f4f7f7 !important;\n}\n\n/* search */\nform.aJf {\n  background-color: #f1f3f4;\n}\n\nform.aJf svg {\n  color: #5f6368;\n}\n\n/* sections */\n\n/* 1: unsorted */\n\ntd.aRz:nth-child(1) .J-KU-KO.aIf-aLe::before {\n  background-color: #d93426;\n}\n\ntd.aRz:nth-child(1) .aAy.J-KU-KO > .aIf-aLf {\n  filter: saturate(0%) contrast(200%) invert(25%) sepia(43%) saturate(4735%) hue-rotate(349deg) brightness(89%) contrast(90%);\n}\n\ntd.aRz:nth-child(1) .J-KU-KO.aIf-aLe .aKz {\n  color: #d93426;\n}\n\n/* 2: promo */\n\ntd.aRz:nth-child(2) .J-KU-KO.aJi-aLe::before {\n  background-color: #188038;\n}\n\ntd.aRz:nth-child(2) .aAy.J-KU-KO > .aJi-aLf {\n  filter: saturate(0%) contrast(200%) invert(19%) sepia(97%) saturate(3741%) hue-rotate(144deg) brightness(91%) contrast(81%);\n}\n\ntd.aRz:nth-child(2) .J-KU-KO.aJi-aLe .aKz {\n  color: #188038;\n}\n\n/* 3: social */\n\ntd.aRz:nth-child(3) .J-KU-KO.aKe-aLe::before {\n  background-color: #1a73e8;\n}\n\ntd.aRz:nth-child(3) .aAy.J-KU-KO > .aKe-aLf {\n  filter: saturate(0%) contrast(200%) invert(25%) sepia(67%) saturate(3361%) hue-rotate(208deg) brightness(104%) contrast(82%);\n}\n\ntd.aRz:nth-child(3) .J-KU-KO.aKe-aLe .aKz {\n  color: #1a73e8;\n}\n\n/* 4: notifications */\n\ntd.aRz:nth-child(4) .J-KU-KO.aH2-aLe::before {\n  background-color: #e37400;\n}\n\ntd.aRz:nth-child(4) .aAy.J-KU-KO > .aH2-aLf {\n  filter: saturate(0%) contrast(200%) invert(46%) sepia(94%) saturate(2989%) hue-rotate(14deg) brightness(103%) contrast(101%);\n}\n\ntd.aRz:nth-child(4) .J-KU-KO.aH2-aLe .aKz {\n  color: #e37400;\n}\n\n/* 5: forum */\n\ntd.aRz:nth-child(5) .J-KU-KO.aHE-aLe::before {\n  background-color: #a142f4;\n}\n\ntd.aRz:nth-child(5) .aAy.J-KU-KO > .aHE-aLf {\n  filter: saturate(0%) contrast(200%) invert(32%) sepia(57%) saturate(4426%) hue-rotate(257deg) brightness(98%) contrast(96%);\n}\n\ntd.aRz:nth-child(5) .J-KU-KO.aHE-aLe .aKz {\n  color: #a142f4;\n}\n\n/* first child menu sidebar */\n.byl .TK .nZ.aBP:first-child {\n  background-color: #fce8e6 !important;\n}\n\n.nZ > .TN.aHS-bnt .qj:first-child {\n  filter: saturate(0%) contrast(200%) invert(25%) sepia(43%) saturate(4735%) hue-rotate(349deg) brightness(89%) contrast(90%);\n}\n\n.byl .TK .TO.nZ > .aHS-bnt .n0:first-child {\n  color: #d93426;\n}\n\n/* borders */\n.G-atb::before {\n  box-shadow: inset 0 -1px 0 0 #eceff1;\n}\n\n.bAw .brC-aT5-aOt-Jw, .bAw .brC-aMv-auO.brC-aT5-aOt-Jw, .bAw .brC-aMv-bta.brC-aT5-aOt-Jw {\n  border-left-color: #f1f3f4;\n}\n\n/* removing border-radius */\n.bkK > .nH {\n  border-radius: 0 !important;\n  margin-bottom: 0 !important;\n}\n\n.IU {\n  border-radius: 0 !important;\n}\n\n/* font */\n.yW {\n  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;\n}\n\n.zA > .a4W {\n  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;\n}\n\n.TO .nU > .n0, .TO.NQ .nU > .n0, .TO.nZ .nU > .n0, .ah9 > .CJ, .n3 > .CL > .CK {\n  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;\n}\n\n.zA > .xW {\n  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;\n}\n\n.amH > .Dj, .h0 > .adl {\n  font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif !important;\n}\n\n}",
+    "usercssData": {
+      "name": "Old Gmail 2018-2022",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "Fixes to bring back the old gmail design",
+      "author": "Jugami1"
+    },
+    "author": "Jugami1",
+    "description": "Fixes to bring back the old gmail design",
+    "name": "Old Gmail 2018-2022",
+    "originalDigest": "c9b55c32fd0fec8447016c48f73e57d9f8046c3d",
+    "_id": "2a8b9743-0078-42b1-a748-69006091248a",
+    "_rev": 1706250822938,
+    "installationUrl": "https://userstyles.world/style/7201",
+    "id": 75
+  },
+  {
+    "enabled": true,
+    "installDate": 1707118503851,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           wikipedia clear style\n@namespace      wikipedia.org\n@version        1.0.0\n@description    wikipedia clear style\n@author         kefiijrw\n==/UserStyle== */\n\n@-moz-document domain(\"wikipedia.org\") {\n#p-personal, /* панель юзера */\n#left-navigation, /* обсуждение страницы */\n#p-views, /* Читать или править */\n#siteNotice, /* Банер объявления сверху */\n#p-navigation, /* Боковые панели */\n#p-participation, /* Боковые панели */\n#p-tb, /* Боковые панели */\n#p-coll-print_export, /* Боковые панели */\n#p-wikibase-otherprojects, /* Боковые панели */\n#p-lang-label, /* заголовок раздела языков */\n.uls-settings-trigger, /* заголовок раздела языков */\n.after-portlet-lang, /* управление ссылками на языковые версии */\n#siteSub, /* Материал из Википедии — свободной энциклопедии */\n#mw-fr-reviewnotice,\n.mw-editsection,\n.toctoggle, /* Скрыть сворачивалку оглавления */\ntable.ambox{ /*  */\n\tdisplay: none;\n}\n\n/* везде убираем обводки */\n*{ \n\tborder: none !important;\n}\n\n\n/* тело статьи */\n.mw-body-content p, \n.mw-content-ltr ul, \n.mw-content-rtl .mw-content-ltr ul{\n    padding: 0px 10% 0 0;\n    max-width: 45em;\n}\n\n\n/*  */\n.mw-body h1, \n.mw-body-content h1 {\n    font-size: 2.5em;\n}\n\n/*  */\nh1, \n.mw-body-content h2{\n    font-family: 'PT Serif' !important;\n}\n\n/*  */\n.mw-body-content h3, \n.mw-body-content h4, \n.mw-body-content h5, \n.mw-body-content h6 {\n    margin-top: 1em;\n}\n\n/*  */\n.mw-body-content h2{\n    margin-top: 2em;\n    font-size: 1.8em;\n}\n\n\n\n/* поиск */\ndiv#simpleSearch{\n    background: none;\n    border: solid 1px #efefef !important;\n}\n\n/*  */\ndiv#simpleSearch input::placeholder{\n    color: #ccc;\n}\n\n/*  */\n#right-navigation {\n    margin-top: 0;\n}\n\n/*  */\ndiv#simpleSearch:hover{\n    border: solid 1px #ccc !important;\n}\n\n/* отступ над заголовком */\n#mw-head-base {\n    height: 2em;\n}\n\n\n\n\n\n/* ссылки на источники забледняем */\n.reference { \n    position: relative;\n    background-color: white;\n    margin-left:-1px;\n    opacity:0.4;\n    font-size: 60% !important;\n}\n\n/*  */\n.reference:hover{\n    opacity:1;\n}\n\n/* скрываем квадратные скобки */\n.reference:before {\n    content: \"[\";\n    position: absolute;\n    top: 2px;\n    left: 0;\n    background-color: white;\n    color: white;\n}\n\n/* скрываем квадратные скобки */\n.reference:after {\n    content: \"]\";\n    position: absolute;\n    top: 2px;\n    right: 0;\n    background-color: white;\n    color: white;\n}\n\n\n\n\n/* убираем буллеты у списков */\nul {\n    list-style-type: none;\n    list-style-image: none;\n}\n\n/*  */\nli:before {\n/*  content: \"— \";\n  margin-left: -1.3em;*/\n}\n\n/*  */\nli{\n    margin: 0.5em 0;\n}\n\n\n\n/* цитаты */\nblockquote {\n\tfont-style: italic;\n    font-family: 'PT serif';\n    background: none;\n    font-size: 1.2em;\n    letter-spacing: 0.015em;\n    max-width: 40em;\n    margin-top: 1.3em;\n}\n\n\n\n\n\n/* убираем подложки под картинками */\ndiv.thumbinner{\n\tbackground: none;\n}\n\n\n/* картинки слева перебрасываем направо */\n.thumb.tleft{\n    clear: right;\n    float: right;\n    margin: 0.5em 0 1.3em 4.4em;\n}\n\n/* отступ слева у правых блоков */\ndiv.tright {\n    margin-left: 4.4em;\n}\n\n\n\n\n\n\n\n\n/* Ссылки на геолокации на разных сервисах */\n.geo-services{\n    display: none;\n} \n\n\n/* скрываем лишнее в блоке геоссылок */\n.mw-kartographer-maplink { \n    /* font-size: 0; */\n    width: 0px;\n    height: 20px;\n    overflow: hidden;\n    display: inline-block;\n}\n\n\n\n\n/* строчка под заголовком типа «ты пришел отсюда, тебя переслали» */\n.dablink, \n.rellink {\n    padding-left: 0;\n    color: gray;\n    font-size: 80%;\n}\n\n\n/* оглавление меньше */\n#toc, \n.toc, \n.mw-warning, \n.toccolours {\n    padding: 15px 30px 10px 15px;\n    font-size: 70%;\n    line-height: 1.2em;\n}\n\n/* заголовок оглавления двигаем налево */\n#toc #toctitle, \n.toc #toctitle, \n#toc .toctitle, \n.toc .toctitle{\n\ttext-align:left;\n}\n\n.mw-body-content #toc h2{\n\tfont-family: sans-serif !important;\n}\n\n\n\n\ntable.standard{\n    margin-left: 0;\n}\n\n/*  */\ntable{\n    background: none !important;\n}\n\n/*  */\ntr{\n    background: none !important;\n}\n\n.infobox td, \n.infobox td div{\n\tbackground: none !important;\n} \n\ntd, th {\n    text-align: left !important;\n    vertical-align: top;\n    font-weight: inherit;\n}\n\n\n/*  */\ntd{\n    vertical-align: top;\n}\n\n\n/* правый блок - отступ и без фона */\n.infobox {\n    margin-left: 4.4em;\n    background: none;\n}\n\n/* выравнивание в таблицах */\n.infobox td, \n.infobox th{\n    text-align: left !important;\n    background: none !important;\n    padding-bottom: 0.4em;\n    vertical-align: top;\n}\n\n.center, caption{\n\ttext-align: left !important;\n}\n\n\n.infobox tr:first-child td, \n.infobox tr:last-child td{\n/*    text-align: center !important;*/\n}\n\n/* заголовок правого блока */\n.fn.org{\n/*\ttext-align: center;\n    display: none;*/\n\tfont-weight: bold;    \n}\n\n.nickname{\n\tfont-weight: normal;\n}\n\n\n\n\n/*  */\nb {\n    font-weight: normal;\n}\n\n/*  */\n#contentSub{\n\tmargin-left: 0;\n}\n\n\n\n\n\n/* распахивалка */\n.collapseButton {\n    background-color: rgb(226, 241, 253);\n    border-radius: 4px;\n    padding: 2px 1px;\n    line-height: 1.2;\n    font-size: 75%;\n    color: rgb(226, 241, 253);\n}\n\n/*  */\n.collapseButton:hover{\n\tbackground-color: #c7e6ff;\n    color: #c7e6ff;\n}\n\n/*  */\n.collapseButton:hover a, \n.collapseButton:link a, \n.collapseButton:active a{\n\ttext-decoration: none;\n}\n\n\n\n/* убираем страшные синие стрелки внутренних ссылок */\nimg[src=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/10px-Arrow_Blue_Right_001.svg.png\"]{\n    display: none;\n}\n\n\n/* убираем страшные синие стрелки внутренних ссылок */\nimg[src=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/10px-Arrow_Blue_Right_001.svg.png\"]:after{\n    content: ' →';\n}\n\n\n\na.NavToggle{\n\tfloat: none;\n}\n\ndiv.NavFrame div.NavHead{\n\tfont-weight: normal;\n    background: none;\n}\n\n    \n    \n    #mw-panel{\n        background-color: #f6f6f6;\n    }\n    \n    \n    #mw-panel::after{\n        content: '';\n        background: linear-gradient(0deg, rgba(246, 246, 246, 0) 0%, rgb(246, 246, 246) 100%);\n        display: block;\n        height: 40px;\n        position: relative;\n        bottom: -40px;\n    }\n\n    #toc{\n/*        position: sticky;\n        top: 0px;\n        background: none;\n        width: 200px;  */\n        \n        position: fixed;\n        top: 0px;\n        background: none;\n        width: 160px;\n        left: 0px;\n        display: block;\n        font-size: 65%;\n        height: 100vh;\n        overflow-y: scroll;\n        padding: 10px 10px;\n        box-sizing: border-box;        \n        \n    }    \n    \n    .hatnote{\n        font-size: 80%;\n        padding-left: 0;\n        max-width: 40em;\n        line-height: 1.4;\n        padding-bottom: 0.5em;\n    }\n    \n    /*#toc > ul{\n        position: relative;\n        left: -204px;\n        top: 60px;\n    }*/\n    \n    #toc ul{\n        padding:0;\n    }\n    \n    \n    #toc .toctitle, .tocnumber, #mw-indicator-audio{\n        display:none;\n    }\n    \n    .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul{\n        margin-left: 0.75em;\n    }\n    \n    @media screen and (min-width: 982px){\n        \n        #mw-panel{\n            width: 10.5em;\n        }      \n        \n        #toc{\n            width: 176px;\n        }\n        \n    }    \n    \n\n\n}",
+    "updateUrl": "https://userstyles.world/api/style/194.user.css",
+    "usercssData": {
+      "name": "wikipedia clear style",
+      "namespace": "wikipedia.org",
+      "version": "1.0.0",
+      "description": "wikipedia clear style",
+      "author": "kefiijrw"
+    },
+    "author": "kefiijrw",
+    "description": "wikipedia clear style",
+    "name": "wikipedia clear style",
+    "originalDigest": "88dc634fea5762fd4f64e0ee36559bfe3a75a818",
+    "_id": "360146d2-5323-46cc-92d1-10ad2623f879",
+    "_rev": 1707118503852,
+    "url": "https://userstyles.world/style/194",
+    "installationUrl": "https://userstyles.world/style/194",
+    "id": 84
+  },
+  {
+    "enabled": true,
+    "installDate": 1707200552130,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           LingQ 5.0 more compact sidebar\n@namespace      lingq5-readingmodeheights\n@version        1.2\n@description    Makes vocabulary sidebar in 5.0 reading mode more compact.\n@author         virgilinojuca\n==/UserStyle== */\n\n@-moz-document regexp(\"https?\\\\://(?:www\\\\.)?lingq\\\\.com/.*/learn/.*/web/reader/.*\") \n{\n\t\n\t/* Improving Related Phrases section */\n\t\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > section.section-widget-item.box.is-outlined.is-level--1.is-light-ter.is-small.is-marginless--bottom.accordion.is-expanded,\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > section.section-widget-item.box.is-outlined.is-level--1.is-light-ter.is-small.is-marginless--bottom.accordion.is-expanded header,\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > section.section-widget-item.box.is-outlined.is-level--1.is-light-ter.is-small.is-marginless--bottom.accordion,\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > section.section-widget-item.box.is-outlined.is-level--1.is-light-ter.is-small.is-marginless--bottom.accordion header {\n\tpadding: 0px;\n\t}\n\t\n\t#lesson-reader div.widget-area.scrollbar-custom.is-fixed div main section.section-widget-item.box.is-outlined.is-level--1.is-light-ter.is-small.is-marginless--bottom.accordion header:hover {\n\t\tbackground-color: transparent;\n\t}\n\n\nli.related-phrase-item {\n    background-color: var(--grey-neutral);\n    border-color: transparent;\n    color: var(--grey-ink03);\n\tborder-radius: .375rem;\n    padding: calc(.5em - /*1*/ 4px) 1em;\n    padding-left: .5rem;\n    padding-right: 0;\t\n\t}\n\t\nli.related-phrase-item:hover {\n    background-color: hsl(var(--grey-neutral-h),var(--grey-neutral-s),calc(var(--grey-neutral-l) + 3%));\n\t}\n\t\n\t/* Reducing vocabulary button padding */\n\t\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > section:nth-child(4) > div > ul > li a {\n    padding-top: calc(.5em - /*1*/ 4px);\n\tpadding-bottom: calc(.5em - /*1*/ 4px);\n\t}\n\t\n\t\n\t/* Reducing section headers margins and padding*/\n\t.section-widget-item--head {\n    margin-bottom: /*.75*/ .35rem;\n}\n\t.section-widget--main{\n\tpadding: /*1*/ .2rem 20px;\n\t}\n\tspan.hint-text.is-size-7.has-text-primary {\n\tfont-size: /*1*/ .95rem !important;\n\t}\n\t\n\t#lesson-reader > div.widget-area.scrollbar-custom.is-fixed > div > main > div > div > textarea {\n\t\tfont-size: /*1*/ .95rem !important;\n\t}\n}",
+    "updateUrl": "https://userstyles.world/api/style/3086.user.css",
+    "usercssData": {
+      "name": "LingQ 5.0 more compact sidebar",
+      "namespace": "lingq5-readingmodeheights",
+      "version": "1.2",
+      "description": "Makes vocabulary sidebar in 5.0 reading mode more compact.",
+      "author": "virgilinojuca"
+    },
+    "author": "virgilinojuca",
+    "description": "Makes vocabulary sidebar in 5.0 reading mode more compact.",
+    "name": "LingQ 5.0 more compact sidebar",
+    "originalDigest": "891774496d08ad6193b32a8eb9a774964770e770",
+    "_id": "d8f1007f-f5c5-4096-b579-d5ce664136ce",
+    "_rev": 1707200552131,
+    "url": "https://userstyles.world/style/3086",
+    "installationUrl": "https://userstyles.world/style/3086",
+    "id": 87
+  }
+]
