@@ -22,32 +22,22 @@ duckduckgo.com##.w498IXAnug_2RwtqCtbA > p
 duckduckgo.com##.js-header-logo.header__logo-wrap
 
 ! youtube
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+www.youtube.com###contents > .ytd-secondary-search-container-renderer.style-scope
+www.youtube.com###channel-thumbnail
+www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
+www.youtube.com###comments
+www.youtube.com###actions
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+www.youtube.com##.style-default.ytd-masthead.style-scope
+www.youtube.com###related
+www.youtube.com##.ytd-watch-flexy.style-scope.watch-active-metadata > ytd-metadata-row-container-renderer.ytd-watch-metadata.style-scope
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-www.youtube.com###guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
-www.youtube.com###logo-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
-www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
-www.youtube.com###icon > .yt-icon-button.style-scope
-www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
-www.youtube.com###comments > .ytd-comments.style-scope
-www.youtube.com###menu > .ytd-watch-metadata.style-scope
-www.youtube.com##.ytd-live-chat-frame.style-scope > yt-button-shape > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-www.youtube.com###secondary > .ytd-watch-flexy.style-scope
-www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-www.youtube.com###logo
-www.youtube.com##.icon-and-text
-www.youtube.com##.manual-btn.gpt-inner
-www.youtube.com###owner-sub-count
+www.youtube.com###guide-button
+www.youtube.com###country-code
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.page-header-banner
 www.youtube.com###voice-search-button
-www.youtube.com###sponsor-button
-www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
-www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 www.youtube.com###header > .ytd-search.style-scope
-www.youtube.com###rendering-content > .ytd-in-feed-ad-layout-renderer.style-scope
-www.youtube.com###header
-www.youtube.com###channel-name > ytd-badge-supported-renderer.ytd-channel-name.style-scope
-www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
-www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
 ! youtube studio
 studio.youtube.com###help-icon > .ytcp-icon-button.style-scope.remove-defaults
@@ -308,9 +298,13 @@ www.steuer-web.de##tax-automatic-boxes.ng-star-inserted
 refold.la##.footer-module--footer--A_zUE > .flexContainer-module--justifyContentCenter--7Ddbs.flexContainer-module--alignItemsCenter--1sqbc.flexContainer-module--nowrap--3i7UJ.flexContainer-module--flexContainer--3KWUm
 refold.la##.footer-module--footerBar--3gqSr
 
-! others
-mxtoolbox.com##.domain-health-inline-ad
-letslearnhangul.com##.app__footer
-www.deepl.com##.lg\:px-\[70px\].sm\:px-8.bg-white.w-full
-www.kuketz-forum.de###footer
-addons.mozilla.org##.Footer
+! 2024-04-24 https://www.youtube.com
+www.youtube.com###content-wrapper
+
+! 2024-04-24 https://annas-archive.org
+annas-archive.org##.text-\[\#777\].bg-black\/5
+
+! 2024-04-24 https://duckduckgo.com
+duckduckgo.com##.js-serp-results.serp__results
+duckduckgo.com##.js-zci-link--chat.js-zci-link.zcm__link
+
