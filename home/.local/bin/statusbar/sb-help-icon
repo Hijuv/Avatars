@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# Das anklickbare Hilfemenü. Mittelklick, um den Fenstermanager neu zu starten.
+
+# Überprüfe, ob dwm läuft, verwende dwm's Readme und starte neu.
+if pidof dwm >/dev/null; then
+	READMEFILE="/home/artix/Files Sync/💻 System/commands.md"
+	restartwm() { pkill -HUP dwm ;}
+else
+	restartwm() { i3 restart ;}
+fi
+
+case $BLOCK_BUTTON in
+	1) typora "${READMEFILE:-${XDG_DATA_HOME:-$HOME/.local/share}/larbs/readme.md}" ;;
+	2) restartwm ;;
+	3) notify-send "❓ Hilfemodul" "\- Linksklick, um den LARBS-Leitfaden zu öffnen.
+- Mittelklick, um den Fenstermanager zu aktualisieren." ;;
+	6) setsid -f "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+echo "❓"

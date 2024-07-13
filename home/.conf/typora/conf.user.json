@@ -1,0 +1,25 @@
+{
+  "defaultFontFamily": {
+    "standard": null, //String - Defaults to "Sans Serif".
+    "serif": null, // String - Defaults to "Sans Serif".
+    "sansSerif": null, // String - Defaults to "Sans Serif".
+    "monospace": null // String - Defaults to "Courier New".
+  },
+  
+  "autoHideMenuBar": true, 
+  "searchService": [
+    ["Search with Google", "https://google.com/search?q=%s"]
+  ],
+  "maxFetchCountOnFileList": 500,
+  "flags": [] // default [], append Chrome launch flags, e.g: [["disable-gpu"], ["host-rules", "MAP * 127.0.0.1"]]
+
+"keyBinding": {
+  "Always on Top": "Ctrl+Shift+P"
+  "Code": "Ctrl+Alt+C"
+  "Show Menu Bar": "Ctrl+Alt+T"
+  "Vergrößern": "Shift+Alt+I"
+  "Verkleinern": "Shift+Alt+O"
+
+  },
+}
+

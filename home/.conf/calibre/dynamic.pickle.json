@@ -1,0 +1,32 @@
+{
+  "database location dialog": "/home/artix/📚 Calibre",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.10",
+      "7.9",
+      "7.8"
+    ]
+  },
+  "s_r_search_mode": 0,
+  "sort_history": [
+    [
+      "tags",
+      false
+    ],
+    [
+      "path",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

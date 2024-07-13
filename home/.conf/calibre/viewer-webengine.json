@@ -1,0 +1,312 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1039,
+      "width": 756,
+      "x": 10,
+      "y": 31
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1033,
+      "width": 750,
+      "x": 13,
+      "y": 34
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1033,
+      "width": 750,
+      "x": 13,
+      "y": 34
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAKAAAAHwAAAv0AAAQtAAAADQAAACIAAAL6AAAEKgAAAAAAAAAAB4AAAAANAAAAIgAAAvoAAAQq"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 128,
+      "width": 884,
+      "x": 518,
+      "y": 476
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 122,
+      "width": 878,
+      "x": 521,
+      "y": 479
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 878,
+      "x": 521,
+      "y": 479
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIGAAAB3AAABXkAAAJbAAACCQAAAd8AAAV2AAACWAAAAAAAAAAAB4AAAAIJAAAB3wAABXYAAAJY"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAFtAAAECfwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAQJAAAAkwD///8AAAABAAABbQAABDj8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawIAAAMIAAAAAAAAAW8AAAQ4AAAC7gAABAkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 21,
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "system",
+    "footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "keyboard_shortcuts": {
+      "increase_font_size": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "+",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "preferences": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ]
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Jeanette Hofmann",
+          "Norbert Kersting",
+          "Claudia Ritzi",
+          "Wolf J. Schünemann (Hg.)"
+        ],
+        "key": "/home/artix/📚 Books/Jeanette Hofmann/Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven (11)/Politik in der digitalen Gesellschaft - Ze - Jeanette Hofmann.epub",
+        "pathtoebook": "/home/artix/📚 Books/Jeanette Hofmann/Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven (11)/Politik in der digitalen Gesellschaft - Ze - Jeanette Hofmann.epub",
+        "timestamp": "2024-05-22T00:19:19.503Z",
+        "title": "Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven"
+      },
+      {
+        "authors": [
+          "David Deida"
+        ],
+        "key": "/home/artix/📚 Books/David Deida/Der Weg des wahren Mannes (10)/Der Weg des wahren Mannes - David Deida.epub",
+        "pathtoebook": "/home/artix/📚 Books/David Deida/Der Weg des wahren Mannes (10)/Der Weg des wahren Mannes - David Deida.epub",
+        "timestamp": "2024-05-21T23:52:26.549Z",
+        "title": "Der Weg des wahren Mannes"
+      },
+      {
+        "authors": [
+          "Jan Schnedler"
+        ],
+        "key": "/home/artix/📚 Books/Jan Schnedler/Start-Up Recht (9)/Start-Up Recht - Jan Schnedler.epub",
+        "pathtoebook": "/home/artix/📚 Books/Jan Schnedler/Start-Up Recht (9)/Start-Up Recht - Jan Schnedler.epub",
+        "timestamp": "2024-05-21T23:40:02.293Z",
+        "title": "Start-Up Recht"
+      },
+      {
+        "authors": [
+          "Julie Lythcott-Haims"
+        ],
+        "key": "/home/artix/📚 Books/Julie Lythcott-Haims/Your Turn_ How to Be an Adult (6)/Your Turn_ How to Be an Adult - Julie Lythcott-Haims.mobi",
+        "pathtoebook": "/home/artix/📚 Books/Julie Lythcott-Haims/Your Turn_ How to Be an Adult (6)/Your Turn_ How to Be an Adult - Julie Lythcott-Haims.mobi",
+        "timestamp": "2024-05-21T09:20:26.417Z",
+        "title": "Your Turn: How to Be an Adult"
+      },
+      {
+        "authors": [
+          "Jeanette Hofmann",
+          "Norbert Kersting",
+          "Claudia Ritzi",
+          "Wolf J. Schünemann (Hg.)"
+        ],
+        "key": "/home/artix/📚 Books/Jeanette Hofmann/Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven (11)/Politik in der digitalen Gesellschaft - Ze - Jeanette Hofmann.pdf",
+        "pathtoebook": "/home/artix/📚 Books/Jeanette Hofmann/Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven (11)/Politik in der digitalen Gesellschaft - Ze - Jeanette Hofmann.pdf",
+        "timestamp": "2024-05-16T02:39:23.139Z",
+        "title": "Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven"
+      },
+      {
+        "authors": [
+          "Jeanette Hofmann",
+          "Norbert Kersting",
+          "Claudia Ritzi",
+          "Wolf J. Schünemann (Hg.)"
+        ],
+        "key": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Science/Claudia Ri - Politik in der digitalen Gesellschaft Zentrale Problemfelder und Forschungsperspektiven.pdf",
+        "pathtoebook": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Science/Claudia Ri - Politik in der digitalen Gesellschaft Zentrale Problemfelder und Forschungsperspektiven.pdf",
+        "timestamp": "2024-05-16T02:06:15.493Z",
+        "title": "Politik in der digitalen Gesellschaft - Zentrale Problemfelder und Forschungsperspektiven"
+      },
+      {
+        "authors": [
+          "Jim Benton"
+        ],
+        "key": "/home/artix/📚 Books/Jim Benton/Attack of the 50-Ft. Cupid (5)/Attack of the 50-Ft. Cupid - Jim Benton.epub",
+        "pathtoebook": "/home/artix/📚 Books/Jim Benton/Attack of the 50-Ft. Cupid (5)/Attack of the 50-Ft. Cupid - Jim Benton.epub",
+        "timestamp": "2024-05-10T07:34:38.557Z",
+        "title": "Attack of the 50-Ft. Cupid"
+      },
+      {
+        "authors": [
+          "Judy Blume"
+        ],
+        "key": "/home/artix/📚 Books/Judy Blume/Double Fudge (1)/Double Fudge - Judy Blume.epub",
+        "pathtoebook": "/home/artix/📚 Books/Judy Blume/Double Fudge (1)/Double Fudge - Judy Blume.epub",
+        "timestamp": "2024-05-06T16:55:24.031Z",
+        "title": "Double Fudge"
+      },
+      {
+        "authors": [
+          "Jim Benton"
+        ],
+        "key": "/home/artix/📚 Calibre/Jim Benton/Attack of the 50-Ft. Cupid (5)/Attack of the 50-Ft. Cupid - Jim Benton.epub",
+        "pathtoebook": "/home/artix/📚 Calibre/Jim Benton/Attack of the 50-Ft. Cupid (5)/Attack of the 50-Ft. Cupid - Jim Benton.epub",
+        "timestamp": "2024-05-02T18:08:09.564Z",
+        "title": "Attack of the 50-Ft. Cupid"
+      },
+      {
+        "authors": [
+          "David Deida"
+        ],
+        "key": "/home/artix/📚 Calibre/David Deida/Der Weg des wahren Mannes (10)/Der Weg des wahren Mannes - David Deida.mobi",
+        "pathtoebook": "/home/artix/📚 Calibre/David Deida/Der Weg des wahren Mannes (10)/Der Weg des wahren Mannes - David Deida.mobi",
+        "timestamp": "2024-04-30T09:25:27.519Z",
+        "title": "Der Weg des wahren Mannes"
+      },
+      {
+        "authors": [
+          "David Deida"
+        ],
+        "key": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Guides/David Deida - Der Weg des wahren Mannes .mobi",
+        "pathtoebook": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Guides/David Deida - Der Weg des wahren Mannes .mobi",
+        "timestamp": "2024-04-30T08:36:39.496Z",
+        "title": "Der Weg des wahren Mannes"
+      },
+      {
+        "authors": [
+          "Michael Nausner"
+        ],
+        "key": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Essays/Michael Nausner - Theologie für die Praxis 2018.pdf",
+        "pathtoebook": "/home/artix/Files Sync/🎓 Study/🎓 Books/🎓 Essays/Michael Nausner - Theologie für die Praxis 2018.pdf",
+        "timestamp": "2024-04-30T08:36:02.679Z",
+        "title": "Theologie für die Praxis 2018   Einzelkapitel   Was hat Kolonialismus mit Theologie zu tun? Ansätze postkolonialer Theologie in Deutschland, GRIN"
+      },
+      {
+        "key": "/home/artix/📚 Calibre/Unbekannt/Blame! Explanations (7)/Blame! Explanations - Unbekannt.cbz",
+        "pathtoebook": "/home/artix/📚 Calibre/Unbekannt/Blame! Explanations (7)/Blame! Explanations - Unbekannt.cbz",
+        "timestamp": "2024-04-30T08:22:46.595Z",
+        "title": "Blame! Explanations"
+      },
+      {
+        "authors": [
+          "Julie Lythcott-Haims"
+        ],
+        "key": "/home/artix/📚 Calibre/Julie Lythcott-Haims/Your Turn_ How to Be an Adult (6)/Your Turn_ How to Be an Adult - Julie Lythcott-Haims.mobi",
+        "pathtoebook": "/home/artix/📚 Calibre/Julie Lythcott-Haims/Your Turn_ How to Be an Adult (6)/Your Turn_ How to Be an Adult - Julie Lythcott-Haims.mobi",
+        "timestamp": "2024-04-30T08:21:55.865Z",
+        "title": "Your Turn: How to Be an Adult"
+      },
+      {
+        "authors": [
+          "Judy Blume"
+        ],
+        "key": "/home/artix/📚 Calibre/Judy Blume/Double Fudge (1)/Double Fudge - Judy Blume.epub",
+        "pathtoebook": "/home/artix/📚 Calibre/Judy Blume/Double Fudge (1)/Double Fudge - Judy Blume.epub",
+        "timestamp": "2024-04-26T18:18:32.333Z",
+        "title": "Double Fudge"
+      }
+    ]
+  }
+}

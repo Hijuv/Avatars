@@ -1,0 +1,29 @@
+MenuBar=Disabled
+
+[CompactMode]
+MaximumTextWidthIndex=2
+PreviewSize=16
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[General]
+RememberOpenedTabs=false
+ShowStatusBar=false
+ShowZoomSlider=false
+Version=202
+ViewPropsTimestamp=2024,4,11,2,24,55.022
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,windowsexethumbnail,imagethumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,directorythumbnail,svgthumbnail,textthumbnail
+
+[Search]
+Location=Everywhere
