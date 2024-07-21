@@ -2,10 +2,6 @@
 
 Shark's commands and key's for repetitive tasks. All shortcuts follow the same structure to unify the system.
 
-[TOC]
-
-------
-
 ## **Terminal:**
 
 Commands:
