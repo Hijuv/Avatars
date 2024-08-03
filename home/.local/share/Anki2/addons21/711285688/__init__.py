@@ -1,1 +1,0 @@
-from . import Multiple_type_fields_on_card_for_2_1
