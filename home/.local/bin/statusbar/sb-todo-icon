@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Definiere hier den Pfad zu der Datei, die du öffnen möchtest
+TODO_FILE="/home/artix/Files Sync/✔️ Orgzly/✔️ Agenda.org"
+
+# Aktionen basierend auf dem Block-Button
+case $BLOCK_BUTTON in
+    1) st -e nvim "${TODO_FILE}" ;;
+    2) restartwm ;;
+    3) notify-send "Agenda" ;;
+    6) setsid -f "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+echo "📝"

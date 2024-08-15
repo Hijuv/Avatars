@@ -1,0 +1,18 @@
+#!/bin/sh
+
+set -e
+
+# Überprüfen, ob geoip-bin installiert ist
+if ! command -v geoiplookup >/dev/null 2>&1; then
+    echo "geoiplookup is not installed. Please install geoip-bin package."
+    exit 1
+fi
+
+# IP-Adresse abrufen
+ip=$(curl -sfm 1 ifconfig.me)
+
+# IP-Adresse mit geoiplookup auflösen
+addr="$(geoiplookup "$ip")"
+name="${addr##*, }"
+
+printf "%s)\n" "$name"
