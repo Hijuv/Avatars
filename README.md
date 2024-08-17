@@ -1,14 +1,12 @@
 
-## Blocklist Includes
+### Blocklist Includes
 
 1. **Personal Extras**
 2. **Luke Smith's General Junk Blocklist**: [GitHub Link](https://github.com/LukeSmithxyz/etc/blob/master/ips)
 3. **4skinSkywalker's Pornblocklist**: [GitHub Link](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt)
 4. **dan.me.uk's Tor Exit Node List**: [dan.me.uk Link](https://www.dan.me.uk/torlist/?full)
 
----
-
-## Where to Place the Domains
+### Where to Place the Domains
 
 #### Linux
 Place the domains in `/etc/hosts`:
