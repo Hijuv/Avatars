@@ -29,7 +29,7 @@ Place the domains in `C:\Windows\System32\drivers\etc\hosts`.
    ```bash
    adb root
    adb remount
-   adb push /example/hosts /system/etc
+   adb push /etc/hosts /system/etc
    ```
 
 ### iPhone (Irreversible)
