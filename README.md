@@ -1,8 +1,8 @@
 ### Update Blocklist
 There is a script in `.local/bin/hostfile` which can be used to update the Blocklist. After the installation of SHARKS or the manual download of this script you just have to type in the following command in your terminal:
-`
+```
 hostfile
-`
+```
 
 ### Blocklist Includes
 
