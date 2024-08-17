@@ -1,5 +1,8 @@
 ### Update Blocklist
-There is a script in `.local/bin/hostfile` which can be used to update the Blocklist.
+There is a script in `.local/bin/hostfile` which can be used to update the Blocklist. After the installation of SHARKS or the manual download of this script you just have to type in the following command in your terminal:
+`
+hostfile
+`
 
 ### Blocklist Includes
 
@@ -21,12 +24,12 @@ Place the domains in `C:\Windows\System32\drivers\etc\hosts`.
 
 ##### Android (Developer tools and USB debugging must be turned on):
 1. Install `adb`:
-   ```bash
+   ```
    sudo pacman -S adb
    ```
 2. Plug the phone into the laptop.
 3. Run the following commands:
-   ```bash
+   ```
    adb root
    adb remount
    adb push /etc/hosts /system/etc
