@@ -1,3 +1,5 @@
+### Update Blocklist
+There is a script in `.local/bin/hostfile` which can be used to update the Blocklist.
 
 ### Blocklist Includes
 
@@ -8,16 +10,16 @@
 
 ### Where to Place the Domains
 
-#### Linux
+#### Linux:
 Place the domains in `/etc/hosts`:
 ```bash
 sudo /etc/hosts
 ```
 
-#### Windows (with administrator privileges)
+#### Windows (with administrator privileges):
 Place the domains in `C:\Windows\System32\drivers\etc\hosts`.
 
-##### Android (Developer tools and USB debugging must be turned on)
+##### Android (Developer tools and USB debugging must be turned on):
 1. Install `adb`:
    ```bash
    sudo pacman -S adb
@@ -30,6 +32,7 @@ Place the domains in `C:\Windows\System32\drivers\etc\hosts`.
    adb push /etc/hosts /system/etc
    ```
 
-##### iPhone (Irreversible)
+##### iPhone (Irreversible):
 1. Go to `Settings > Screen Time > Communication Security`.
 2. Turn on filters for sensitive content and enter a password blindly.
+
