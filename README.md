@@ -1,5 +1,3 @@
-### Important: THIS BLOCKLIST WILL MAKE TOR NOT ABLE TO CONNECT ANYMORE TO PREVENT SURROUNDING YOUR OWN BLOCKLIST
-
 ### Update Blocklist
 There is a script in `.local/bin/hostfile` which can be used to update the Blocklist. After the installation of SHARKS or the manual download of this script you just have to type in the following command in your terminal:
 ```
@@ -11,7 +9,7 @@ hostfile
 1. **Personal Extras**
 2. **Luke Smith's General Junk Blocklist**: [GitHub Link](https://github.com/LukeSmithxyz/etc/blob/master/ips)
 3. **4skinSkywalker's Pornblocklist**: [GitHub Link](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt)
-4. **dan.me.uk's Tor Exit Node List**: [dan.me.uk Link](https://www.dan.me.uk/torlist/?full)
+4. **dan.me.uk's Tor Exit Node List**: [dan.me.uk Link](https://www.dan.me.uk/torlist/?full) ❗ THIS WILL MAKE YOUR TOR BROWSER NOT ABLE TO CONNECT ANYMORE IN ORDER TO PREVENT SURROUNDING THE BLOCKLIST
 
 ### Where to Place the Domains
 
