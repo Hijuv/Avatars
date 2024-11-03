@@ -2,9 +2,9 @@
 
 A bowl of delicous fine graned golden rice.
 
-- Scripts are in `~/.local/bin/`
-- Settings are in `~/.config`
-- Environmental variables are in `~/.zprofile` and `~/.config/x11/xprofile`
+- Scripts in `~/.local/bin/`
+- Settings in `~/.config`
+- Environmental variables in `~/.zprofile` and `~/.config/x11/xprofile`
 - File bookmarks in `~/.config/shell/bm-files`
 - Directory bookmarks in `~/.config/shell/bm-dirs`
 
