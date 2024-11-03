@@ -23,6 +23,3 @@ Use [SHARKS](https://shars.sh) for an guided auto-install:
 ```
 curl -LO sharks.sh/sharks.sh
 ```
-
-or clone the repo files directly to your home directory and install the [dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/static/progs.csv).
-
