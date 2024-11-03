@@ -1,6 +1,6 @@
 # Ricebowl
 
-A bowl of delicous, fine graned, golden rice.
+A bowl of delicous, fine graned, golden rice. For an overview press <mod ?>
 
 - Scripts in `~/.local/bin/`
 - Settings in `~/.config`
