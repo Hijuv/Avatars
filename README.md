@@ -10,7 +10,7 @@ A bowl of delicous fine graned golden rice.
 
 ## Usage
 
-These dotfiles are intended to go with numerous suckless programs I use:
+These dotfiles are intended to go with numerous suckless programs, the main ones are:
 
 - [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
 - [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
