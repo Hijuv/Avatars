@@ -18,7 +18,7 @@ These dotfiles are intended to go with numerous suckless programs, the main ones
 
 ## Installation
 
-Use [SHARKS](https://shars.sh) for an guided auto-install (for an overview press `<mod ?>`):
+Use [SHARKS](https://shars.sh) for an guided auto-install (for an overview press `<win ?>`):
 
 ```
 curl -LO sharks.sh/sharks.sh
