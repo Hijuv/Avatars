@@ -1,6 +1,6 @@
 # Ricebowl
 
-A bowl of delicous, fine graned, golden rice. For an overview press `<mod ?>`
+A bowl of delicous, fine graned, golden rice.
 
 - Scripts in `~/.local/bin/`
 - Settings in `~/.config`
@@ -18,7 +18,7 @@ These dotfiles are intended to go with numerous suckless programs, the main ones
 
 ## Installation
 
-Use [SHARKS](https://shars.sh) for an guided auto-install:
+Use [SHARKS](https://shars.sh) for an guided auto-install (for an overview press `<mod ?>`):
 
 ```
 curl -LO sharks.sh/sharks.sh
