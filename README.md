@@ -4,7 +4,7 @@ A bowl of delicous, fine graned, golden rice.
 
 - Scripts in `~/.local/bin/`
 - Settings in `~/.config`
-- Environmental variables in `~/.zprofile` and `~/.config/x11/xprofile`
+- Environmental variables in `~/.zprofile`
 - File bookmarks in `~/.config/shell/bm-files`
 - Directory bookmarks in `~/.config/shell/bm-dirs`
 
